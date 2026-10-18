@@ -1,0 +1,776 @@
+--- a/plugins/MythicMobs/Items/魔能系列/魔能装备.yml
++++ b/plugins/MythicMobs/Items/魔能系列/魔能装备.yml
+@@ -1,4 +1,7 @@
+ 魔能·训练营之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 276
+   Data: 6
+   Display: '§a§l魔能·训练营之剑'
+@@ -20,6 +23,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·训练营头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 314
+   Display: '§a§l魔能·训练营头盔'
+   Lore:
+@@ -40,6 +46,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·训练营胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 315
+   Display: '§a§l魔能·训练营铠甲'
+   Lore:
+@@ -59,6 +68,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·训练营护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 316
+   Display: '§a§l魔能·训练营护腿'
+   Lore:
+@@ -78,6 +90,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·训练营靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 317
+   Display: '§a§l魔能·训练营靴子'
+   Lore:
+@@ -98,6 +113,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·前线战场之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 276
+   Data: 56
+   Display: '§2§l魔能·前线战场之剑'
+@@ -119,6 +137,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·前线战场头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 310
+   Display: '§2§l魔能·前线战场头盔'
+   Lore:
+@@ -139,6 +160,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·前线战场胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 311
+   Display: '§2§l魔能·前线战场铠甲'
+   Lore:
+@@ -158,6 +182,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·前线战场护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 312
+   Display: '§2§l魔能·前线战场护腿'
+   Lore:
+@@ -177,6 +204,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·前线战场靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "1"
+   Id: 313
+   Display: '§2§l魔能·前线战场靴子'
+   Lore:
+@@ -197,6 +227,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·魔族堡垒之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 276
+   Data: 49
+   Display: '§b§l魔能·魔族堡垒之剑'
+@@ -214,12 +247,14 @@
+   - '§5魔能魔族堡垒拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·魔族堡垒头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 306
+   Display: '§b§l魔能·魔族堡垒头盔'
+   Lore:
+@@ -235,12 +270,14 @@
+   - '§5魔能魔族堡垒拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·魔族堡垒胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 307
+   Display: '§b§l魔能·魔族堡垒铠甲'
+   Lore:
+@@ -255,12 +292,14 @@
+   - '§5魔能魔族堡垒拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·魔族堡垒护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 308
+   Display: '§b§l魔能·魔族堡垒护腿'
+   Lore:
+@@ -275,12 +314,14 @@
+   - '§5魔能魔族堡垒拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·魔族堡垒靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 309
+   Display: '§b§l魔能·魔族堡垒靴子'
+   Lore:
+@@ -296,12 +337,14 @@
+   - '§5魔能魔族堡垒拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·堕落祭坛之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 276
+   Data: 26
+   Display: '§9§l魔能·堕落祭坛之剑'
+@@ -320,12 +363,14 @@
+   - '§5魔能堕落祭坛拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·堕落祭坛头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 298
+   Display: '§9§l魔能·堕落祭坛头盔'
+   Lore:
+@@ -341,13 +386,15 @@
+   - '§5魔能堕落祭坛拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+     Color: 0,0,255
+ 魔能·堕落祭坛胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 299
+   Display: '§9§l魔能·堕落祭坛铠甲'
+   Lore:
+@@ -362,13 +409,15 @@
+   - '§5魔能堕落祭坛拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+     Color: 0,0,255
+ 魔能·堕落祭坛护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 300
+   Display: '§9§l魔能·堕落祭坛护腿'
+   Lore:
+@@ -383,13 +432,15 @@
+   - '§5魔能堕落祭坛拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+     Color: 0,0,255
+ 魔能·堕落祭坛靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "2"
+   Id: 301
+   Display: '§9§l魔能·堕落祭坛靴子'
+   Lore:
+@@ -405,13 +456,15 @@
+   - '§5魔能堕落祭坛拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+     Color: 0,0,255
+ 魔能·遗忘都城之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 276
+   Data: 28
+   Display: '§5§l魔能·遗忘都城之剑'
+@@ -430,13 +483,14 @@
+   - '§5魔能遗忘都城拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·遗忘都城头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 310
+   Display: '§5§l魔能·遗忘都城头盔'
+   Lore:
+@@ -452,13 +506,14 @@
+   - '§5魔能遗忘都城拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·遗忘都城胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 311
+   Display: '§5§l魔能·遗忘都城铠甲'
+   Lore:
+@@ -473,13 +528,14 @@
+   - '§5魔能遗忘都城拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·遗忘都城护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 312
+   Display: '§5§l魔能·遗忘都城护腿'
+   Lore:
+@@ -494,13 +550,14 @@
+   - '§5魔能遗忘都城拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·遗忘都城靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 313
+   Display: '§5§l魔能·遗忘都城靴子'
+   Lore:
+@@ -516,13 +573,14 @@
+   - '§5魔能遗忘都城拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·死亡峡谷之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 276
+   Data: 86
+   Display: '§6§l魔能·死亡峡谷之剑'
+@@ -541,13 +599,14 @@
+   - '§5魔能死亡峡谷拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·死亡峡谷头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 302
+   Display: '§6§l魔能·死亡峡谷头盔'
+   Lore:
+@@ -563,13 +622,14 @@
+   - '§5魔能死亡峡谷拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·死亡峡谷胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 303
+   Display: '§6§l魔能·死亡峡谷铠甲'
+   Lore:
+@@ -584,13 +644,14 @@
+   - '§5魔能死亡峡谷拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·死亡峡谷护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 304
+   Display: '§6§l魔能·死亡峡谷护腿'
+   Lore:
+@@ -605,13 +666,14 @@
+   - '§5魔能死亡峡谷拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·死亡峡谷靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "3"
+   Id: 305
+   Display: '§6§l魔能·死亡峡谷靴子'
+   Lore:
+@@ -627,13 +689,14 @@
+   - '§5魔能死亡峡谷拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 276
+   Data: 46
+   Display: '§c§l魔能·莫洛斯托之剑'
+@@ -652,14 +715,14 @@
+   - '§5魔能莫洛斯托拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 310
+   Display: '§c§l魔能·莫洛斯托头盔'
+   Lore:
+@@ -675,14 +738,14 @@
+   - '§5魔能莫洛斯托拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 311
+   Display: '§c§l魔能·莫洛斯托铠甲'
+   Lore:
+@@ -697,14 +760,14 @@
+   - '§5魔能莫洛斯托拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 312
+   Display: '§c§l魔能·莫洛斯托护腿'
+   Lore:
+@@ -719,14 +782,14 @@
+   - '§5魔能莫洛斯托拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 313
+   Display: '§c§l魔能·莫洛斯托靴子'
+   Lore:
+@@ -742,14 +805,14 @@
+   - '§5魔能莫洛斯托拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   Options:
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托超频之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "5"
+   Id: 276
+   Data: 46
+   Display: '§c§l魔能·莫洛斯托超频之剑'
+@@ -770,11 +833,7 @@
+   - '§5魔能莫洛斯托超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<武器稳定节点>§3]'
+   - '§3[§7可镶嵌<武器稳定节点>§3]'
+   - '§3[§7可镶嵌<武器稳定节点>§3]'
+@@ -784,6 +843,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托超频头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 310
+   Display: '§c§l魔能·莫洛斯托超频头盔'
+   Lore:
+@@ -801,10 +863,7 @@
+   - '§5魔能莫洛斯托超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+@@ -813,6 +872,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托超频胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 311
+   Display: '§c§l魔能·莫洛斯托超频铠甲'
+   Lore:
+@@ -829,10 +891,7 @@
+   - '§5魔能莫洛斯托超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+@@ -841,6 +900,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托超频护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 312
+   Display: '§c§l魔能·莫洛斯托超频护腿'
+   Lore:
+@@ -857,10 +919,7 @@
+   - '§5魔能莫洛斯托超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+@@ -869,6 +928,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·莫洛斯托超频靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "4"
+   Id: 313
+   Display: '§c§l魔能·莫洛斯托超频靴子'
+   Lore:
+@@ -886,10 +948,7 @@
+   - '§5魔能莫洛斯托超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+@@ -898,6 +957,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·天族净化超频之剑:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "6"
+   Id: 276
+   Data: 23
+   Display: '§6§l魔能·天族净化超频之剑'
+@@ -919,12 +981,7 @@
+   - '§5魔能天族净化超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<武器稳定节点>§3]'
+   - '§3[§7可镶嵌<武器稳定节点>§3]'
+   - '§3[§7可镶嵌<武器稳定节点>§3]'
+@@ -935,6 +992,9 @@
+     Unbreakable: true
+     HideFlags: true
+ 魔能·天族净化超频头盔:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "5"
+   Id: 298
+   Display: '§6§l魔能·天族净化超频头盔'
+   Lore:
+@@ -952,11 +1012,7 @@
+   - '§5魔能天族净化超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+@@ -967,6 +1023,9 @@
+     HideFlags: true
+     Color: 255,0,255
+ 魔能·天族净化超频胸甲:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "5"
+   Id: 299
+   Display: '§6§l魔能·天族净化超频铠甲'
+   Lore:
+@@ -983,11 +1042,7 @@
+   - '§5魔能天族净化超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+@@ -998,6 +1053,9 @@
+     HideFlags: true
+     Color: 255,0,255
+ 魔能·天族净化超频护腿:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "5"
+   Id: 300
+   Display: '§6§l魔能·天族净化超频护腿'
+   Lore:
+@@ -1014,11 +1072,7 @@
+   - '§5魔能天族净化超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+@@ -1029,6 +1083,9 @@
+     HideFlags: true
+     Color: 255,0,255
+ 魔能·天族净化超频靴子:
++  NBT:
++    CXS4RuneLayout: "horizontal-20261018"
++    CXS4RuneSlots: "5"
+   Id: 301
+   Display: '§6§l魔能·天族净化超频靴子'
+   Lore:
+@@ -1046,11 +1103,7 @@
+   - '§5魔能天族净化超频拆解'
+   - '§4§m－－－－－－－－－－－－'
+   - '§b§l符文➱§r'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
+-  - '§7「§8✰§7」'
++  - '§7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」 §7「§8✰§7」'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'
+   - '§3[§7可镶嵌<防具稳定节点>§3]'

@@ -1,0 +1,2688 @@
+--- a/plugins/YeeGem/gem/CXS4_神四原值符文.yml
++++ b/plugins/YeeGem/gem/CXS4_神四原值符文.yml
+@@ -9,1451 +9,1448 @@
+     - '§8【PVP】攻击力: §b+200-250'
+     - '§8破甲攻击: §b+1%'
+     - '§8命中几率: §b+2%'
+-CXS4R_0:
++圣者符文:
+   item: 圣者符文
+-  name: §a℘Ⅰ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§a℘Ⅰ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+4000'
+   - '§8生命恢复: §b+400'
+   - '§8PVE防御: §b+400-500'
+   - '§8PVP防御力: §b+100-125'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_1:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++圣者符文2:
+   item: 圣者符文2
+-  name: §a℘Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§a℘Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+6000'
+   - '§8生命恢复: §b+600'
+   - '§8PVE防御: §b+550-650'
+   - '§8PVP防御力: §b+137-162'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_2:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++圣者符文3:
+   item: 圣者符文3
+-  name: §a℘Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§a℘Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+8000'
+   - '§8生命恢复: §b+800'
+   - '§8PVP防御力: §b+175-200'
+   - '§8PVE防御: §b+700-800'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_4:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++恶魔符文2:
+   item: 恶魔符文2
+-  name: §cℭⅡ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§cℭⅡ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+1100-1300'
+   - '§8【PVP】攻击力: §b+275-325'
+   - '§8破甲攻击: §b+1%'
+   - '§8命中几率: §b+2%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_5:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++恶魔符文3:
+   item: 恶魔符文3
+-  name: §cℭⅢ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§cℭⅢ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+1400-1600'
+   - '§8【PVP】攻击力: §b+350-400'
+   - '§8破甲攻击: §b+1%'
+   - '§8命中几率: §b+2%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_6:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++神圣符文:
+   item: 神圣符文
+-  name: §eℒ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§eℒ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+1.5%'
+   - '§8暴伤抵抗: §b+17.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_7:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++神圣符文2:
+   item: 神圣符文2
+-  name: §eℒⅡ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§eℒⅡ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+2%'
+   - '§8暴伤抵抗: §b+20%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_8:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++神圣符文3:
+   item: 神圣符文3
+-  name: §eℒⅢ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§eℒⅢ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+2.5%'
+   - '§8暴伤抵抗: §b+22.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_9:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++恐惧符文:
+   item: 恐惧符文
+-  name: §8θⅠ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§8θⅠ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+1.5%'
+   - '§8暴击伤害: §b+17.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_10:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++恐惧符文2:
+   item: 恐惧符文2
+-  name: §8θⅡ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§8θⅡ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+2%'
+   - '§8暴击伤害: §b+20%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_11:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++恐惧符文3:
+   item: 恐惧符文3
+-  name: §8θⅢ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§8θⅢ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+2.5%'
+   - '§8暴击伤害: §b+22.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_12:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空力量符文1:
+   item: 天空力量符文1
+-  name: §4✞Ⅰ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4✞Ⅰ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+2000-2500'
+   - '§8【PVP】攻击力: §b+500-625'
+   - '§8破甲攻击: §b+1.5%'
+   - '§8命中几率: §b+1.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_13:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空力量符文2:
+   item: 天空力量符文2
+-  name: §4✞Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4✞Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+2500-3000'
+   - '§8【PVP】攻击力: §b+625-750'
+   - '§8破甲攻击: §b+1.5%'
+   - '§8命中几率: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_14:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空力量符文3:
+   item: 天空力量符文3
+-  name: §4✞Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4✞Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '【PVE】攻击力: §b+3500-4000'
+   - '【PVP】攻击力: §b+875-1000'
+   - '§8破甲攻击: §b+1.5%'
+   - '§8命中几率: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_15:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空力量符文4:
+   item: 天空力量符文4
+-  name: §4✞Ⅳ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4✞Ⅳ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+4500-5000'
+   - '§8【PVP】攻击力: §b+1125-1250'
+   - '§8破甲攻击: §b+1.5%'
+   - '§8命中几率: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_16:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空力量符文5:
+   item: 天空力量符文5
+-  name: §4✞Ⅴ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4✞Ⅴ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+6000-6500'
+   - '§8【PVP】攻击力: §b+1500-1625'
+   - '§8破甲攻击: §b+1.5%'
+   - '§8命中几率: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_17:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空生命符文1:
+   item: 天空生命符文1
+-  name: §2✙Ⅰ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§2✙Ⅰ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+12000'
+   - '§8生命恢复: §b+1200'
+   - '§8PVE防御: §b+1000-1250'
+   - '§8PVP防御力: §b+250-312'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_18:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空生命符文2:
+   item: 天空生命符文2
+-  name: §2✙Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§2✙Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+15000'
+   - '§8生命恢复: §b+1500'
+   - '§8PVE防御: §b+1250-1500'
+   - '§8PVP防御力: §b+312-375'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_19:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空生命符文3:
+   item: 天空生命符文3
+-  name: §2✙Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§2✙Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+20000'
+   - '§8生命恢复: §b+1500'
+   - '§8PVE防御: §b+1750-2000'
+   - '§8PVP防御力: §b+437-500'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_20:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空生命符文4:
+   item: 天空生命符文4
+-  name: §2✙Ⅳ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§2✙Ⅳ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+25000'
+   - '§8生命恢复: §b+2500'
+   - '§8PVE防御: §b+2250-2500'
+   - '§8PVP防御力: §b+562-625'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_21:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空生命符文5:
+   item: 天空生命符文5
+-  name: §2✙Ⅴ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§2✙Ⅴ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+35000'
+   - '§8生命恢复: §b+3500'
+   - '§8PVE防御: §b+3000-3250'
+   - '§8PVP防御力: §b+750-812'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_22:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空狂乱符文1:
+   item: 天空狂乱符文1
+-  name: §9✞Ⅰ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§9✞Ⅰ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+3%'
+   - '§8暴击伤害: §b+25%'
+   - '§8移动速度: §b+1%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_23:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空狂乱符文2:
+   item: 天空狂乱符文2
+-  name: §9✞Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§9✞Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+4%'
+   - '§8暴击伤害: §b+26.5%'
+   - '§8移动速度: §b+1%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_24:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空狂乱符文3:
+   item: 天空狂乱符文3
+-  name: §9✞Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§9✞Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+5%'
+   - '§8暴击伤害: §b+28%'
+   - '§8移动速度: §b+1%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_25:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空狂乱符文4:
+   item: 天空狂乱符文4
+-  name: §9✞Ⅳ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§9✞Ⅳ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+6%'
+   - '§8暴击伤害: §b+30%'
+   - '§8移动速度: §b+1%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_26:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空狂乱符文5:
+   item: 天空狂乱符文5
+-  name: §9✞Ⅴ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§9✞Ⅴ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+7%'
+   - '§8暴击伤害: §b+32%'
+   - '§8移动速度: §b+1%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_27:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空护盾符文1:
+   item: 天空护盾符文1
+-  name: §b✙Ⅰ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✙Ⅰ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+3%'
+   - '§8暴击抵抗: §b+25%'
+   - '§8【PVP】闪避: §b+1.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_28:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空护盾符文2:
+   item: 天空护盾符文2
+-  name: §b✙Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✙Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+4%'
+   - '§8暴击抵抗: §b+26.5%'
+   - '§8【PVP】闪避: §b+1.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_29:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空护盾符文3:
+   item: 天空护盾符文3
+-  name: §b✙Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✙Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+5%'
+   - '§8暴击抵抗: §b+28%'
+   - '§8【PVP】闪避: §b+1.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_30:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空护盾符文4:
+   item: 天空护盾符文4
+-  name: §b✙Ⅳ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✙Ⅳ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+6%'
+   - '§8暴击抵抗: §b+30%'
+   - '§8【PVP】闪避: §b+1.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_31:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天空护盾符文5:
+   item: 天空护盾符文5
+-  name: §b✙Ⅴ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✙Ⅴ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+7%'
+   - '§8暴击抵抗: §b+32%'
+   - '§8【PVP】闪避: §b+1.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_32:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文1:
+   item: 魔能攻击符文1
+-  name: §6ЖⅠ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅠ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+50-100'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_33:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文2:
+   item: 魔能攻击符文2
+-  name: §6ЖⅡ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅡ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+100-150'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_34:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文3:
+   item: 魔能攻击符文3
+-  name: §6ЖⅢ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅢ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+150-200'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_35:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文4:
+   item: 魔能攻击符文4
+-  name: §6ЖⅣ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅣ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+200-250'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_36:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文5:
+   item: 魔能攻击符文5
+-  name: §6ЖⅤ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅤ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+250-300'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_37:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文6:
+   item: 魔能攻击符文6
+-  name: §6ЖⅥ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅥ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+350-400'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_38:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文7:
+   item: 魔能攻击符文7
+-  name: §6ЖⅦ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅦ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+450-500'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_39:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文8:
+   item: 魔能攻击符文8
+-  name: §6ЖⅧ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅧ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+550-600'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_40:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文9:
+   item: 魔能攻击符文9
+-  name: §6ЖⅨ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅨ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+650-700'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_41:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能攻击符文10:
+   item: 魔能攻击符文10
+-  name: §6ЖⅩ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6ЖⅩ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+750-800'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_42:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文1:
+   item: 魔能抗性符文1
+-  name: §fЖⅠ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅠ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.1%'
+   - '§8暴伤抵抗: §b+5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_43:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文2:
+   item: 魔能抗性符文2
+-  name: §fЖⅡ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅡ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.2%'
+   - '§8暴伤抵抗: §b+6%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_44:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文3:
+   item: 魔能抗性符文3
+-  name: §fЖⅢ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅢ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.3%'
+   - '§8暴伤抵抗: §b+7%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_45:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文4:
+   item: 魔能抗性符文4
+-  name: §fЖⅣ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅣ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.4%'
+   - '§8暴伤抵抗: §b+8%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_46:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文5:
+   item: 魔能抗性符文5
+-  name: §fЖⅤ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅤ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.5%'
+   - '§8暴伤抵抗: §b+9%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_47:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文6:
+   item: 魔能抗性符文6
+-  name: §fЖⅥ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅥ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.6%'
+   - '§8暴伤抵抗: §b+10.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_48:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文7:
+   item: 魔能抗性符文7
+-  name: §fЖⅦ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅦ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.7%'
+   - '§8暴伤抵抗: §b+12%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_49:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文8:
+   item: 魔能抗性符文8
+-  name: §fЖⅧ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅧ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.8%'
+   - '§8暴伤抵抗: §b+13.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_50:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文9:
+   item: 魔能抗性符文9
+-  name: §fЖⅨ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅨ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+0.9%'
+   - '§8暴伤抵抗: §b+15%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_51:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能抗性符文10:
+   item: 魔能抗性符文10
+-  name: §fЖⅩ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§fЖⅩ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+1%'
+   - '§8暴伤抵抗: §b+16.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_52:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文1:
+   item: 魔能活性符文1
+-  name: §dЖⅠ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅠ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+350'
+   - '§8防御力: §b+25-50'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_53:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文2:
+   item: 魔能活性符文2
+-  name: §dЖⅡ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅡ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+500'
+   - '§8防御力: §b+50-75'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_54:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文3:
+   item: 魔能活性符文3
+-  name: §dЖⅢ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅢ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+650'
+   - '§8防御力: §b+75-100'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_55:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文4:
+   item: 魔能活性符文4
+-  name: §dЖⅣ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅣ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+800'
+   - '§8防御力: §b+100-125'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_56:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文5:
+   item: 魔能活性符文5
+-  name: §dЖⅤ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅤ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+950'
+   - '§8防御力: §b+125-150'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_57:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文6:
+   item: 魔能活性符文6
+-  name: §dЖⅥ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅥ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+1250'
+   - '§8防御力: §b+155-200'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_58:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文7:
+   item: 魔能活性符文7
+-  name: §dЖⅦ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅦ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+1550'
+   - '§8防御力: §b+205-250'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_59:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文8:
+   item: 魔能活性符文8
+-  name: §dЖⅧ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅧ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+1850'
+   - '§8防御力: §b+255-300'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_60:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文9:
+   item: 魔能活性符文9
+-  name: §dЖⅨ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅨ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+2150'
+   - '§8防御力: §b+305-350'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_61:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能活性符文10:
+   item: 魔能活性符文10
+-  name: §dЖⅩ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§dЖⅩ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+2450'
+   - '§8防御力: §b+355-400'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_62:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文1:
+   item: 魔能狂暴符文1
+-  name: §5ЖⅠ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅠ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.1%'
+   - '§8暴击伤害: §b+5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_63:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文2:
+   item: 魔能狂暴符文2
+-  name: §5ЖⅡ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅡ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.2%'
+   - '§8暴击伤害: §b+6%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_64:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文3:
+   item: 魔能狂暴符文3
+-  name: §5ЖⅢ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅢ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.3%'
+   - '§8暴击伤害: §b+7%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_65:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文4:
+   item: 魔能狂暴符文4
+-  name: §5ЖⅣ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅣ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.4%'
+   - '§8暴击伤害: §b+8%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_66:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文5:
+   item: 魔能狂暴符文5
+-  name: §5ЖⅤ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅤ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.5%'
+   - '§8暴击伤害: §b+9%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_67:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文6:
+   item: 魔能狂暴符文6
+-  name: §5ЖⅥ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅥ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.6%'
+   - '§8暴击伤害: §b+10.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_68:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文7:
+   item: 魔能狂暴符文7
+-  name: §5ЖⅦ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅦ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.7%'
+   - '§8暴击伤害: §b+12%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_69:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文8:
+   item: 魔能狂暴符文8
+-  name: §5ЖⅧ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅧ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.8%'
+   - '§8暴击伤害: §b+13.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_70:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文9:
+   item: 魔能狂暴符文9
+-  name: §5ЖⅨ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅨ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+0.9%'
+   - '§8暴击伤害: §b+15%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_71:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++魔能狂暴符文10:
+   item: 魔能狂暴符文10
+-  name: §5ЖⅩ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5ЖⅩ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+1%'
+   - '§8暴击伤害: §b+16.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_72:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++圣者活性符文:
+   item: 圣者活性符文
+-  name: §a℘§dЖ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§a℘§dЖ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+12000'
+   - '§8生命恢复: §b+1200'
+   - '§8PVE防御: §b+1300-1500'
+   - '§8PVP防御力: §b+325-375'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_73:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++神圣抗性符文:
+   item: 神圣抗性符文
+-  name: §eℒ§fЖ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§eℒ§fЖ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+4%'
+   - '§8暴伤抵抗: §b+30%'
+   - '§8吸血抵抗: §b+1%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_74:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++恶魔攻击符文:
+   item: 恶魔攻击符文
+-  name: §cℭ§6Ж
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§cℭ§6Ж§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+2600-3000'
+   - '§8【PVP】攻击力: §b+650-750'
+   - '§8破甲攻击: §b+1.5%'
+   - '§8命中几率: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_75:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++恐惧狂暴符文:
+   item: 恐惧狂暴符文
+-  name: §8θ§5Ж
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§8θ§5Ж§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+4%'
+   - '§8暴击伤害: §b+30%'
+   - '§8吸血几率: §b+1%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_76:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++力量恶魔攻击符文:
+   item: 力量恶魔攻击符文
+-  name: §4✞§cℭ§6Ж
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4✞§cℭ§6Ж§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+12000-15000'
+   - '§8【PVP】攻击力: §b+3000-3750'
+   - '§8破甲攻击: §b+2%'
+   - '§8命中几率: §b+4%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_77:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++生命圣者活性符文:
+   item: 生命圣者活性符文
+-  name: §2✙§a℘§dЖ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§2✙§a℘§dЖ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+56500'
+   - '§8生命恢复: §b+5650'
+   - '§8生命加成: §b+10%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_78:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++狂乱恐惧狂暴符文:
+   item: 狂乱恐惧狂暴符文
+-  name: §9✞§8θ§5Ж
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§9✞§8θ§5Ж§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+8.5%'
+   - '§8暴击伤害: §b+35%'
+   - '§8吸血几率: §b+2%'
+   - '§8移动速度: §b+2%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_79:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++护盾神圣抗性符文:
+   item: 护盾神圣抗性符文
+-  name: §2b§eℒ§fЖ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§2b§eℒ§fЖ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+8.5%'
+   - '§8暴伤抵抗: §b+35%'
+   - '§8吸血抵抗: §b+2%'
+   - '§8【PVP】闪避: §b+2%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_80:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知攻性符文:
+   item: 真知攻性符文
+-  name: §6✡
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6✡§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+20000-25000'
+   - '§8【PVP】攻击力: §b+5000-6250'
+   - '§8破甲攻击: §b+2.5%'
+   - '§8命中几率: §b+5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_81:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知攻性符文2:
+   item: 真知攻性符文2
+-  name: §6✡Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6✡Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+25000-30000'
+   - '§8【PVP】攻击力: §b+6250-7500'
+   - '§8破甲攻击: §b+2.5%'
+   - '§8命中几率: §b+5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_82:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知攻性符文3:
+   item: 真知攻性符文3
+-  name: §6✡Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6✡Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+30000-35000'
+   - '§8【PVP】攻击力: §b+7500-8750'
+   - '§8破甲攻击: §b+2.5%'
+   - '§8命中几率: §b+5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_83:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知狂性符文:
+   item: 真知狂性符文
+-  name: §5✡
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5✡§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+10%'
+   - '§8暴击伤害: §b+40%'
+   - '§8吸血几率: §b+3%'
+   - '§8移动速度: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_84:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知狂性符文2:
+   item: 真知狂性符文2
+-  name: §5✡Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5✡Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+11.5%'
+   - '§8暴击伤害: §b+50%'
+   - '§8吸血几率: §b+4%'
+   - '§8移动速度: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_85:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知狂性符文3:
+   item: 真知狂性符文3
+-  name: §5✡Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5✡Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+13%'
+   - '§8暴击伤害: §b+60%'
+   - '§8吸血几率: §b+5%'
+   - '§8移动速度: §b+3%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_86:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知活性符文:
+   item: 真知活性符文
+-  name: §d✡
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§d✡§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+75000'
+   - '§8生命恢复: §b+7500'
+   - '§8PVE防御: §b+10000-12500'
+   - '§8PVP防御力: §b+2500-3125'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_87:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知活性符文2:
+   item: 真知活性符文2
+-  name: §d✡Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§d✡Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+100000'
+   - '§8生命恢复: §b+10000'
+   - '§8PVE防御: §b+12500-15000'
+   - '§8PVP防御力: §b+3125-3750'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_88:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知活性符文3:
+   item: 真知活性符文3
+-  name: §d✡Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§d✡Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+125000'
+   - '§8生命恢复: §b+12500'
+   - '§8PVE防御: §b+15000-17500'
+   - '§8PVP防御力: §b+3750-4375'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_89:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知抗性符文:
+   item: 真知抗性符文
+-  name: §b✡
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✡§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+10%'
+   - '§8暴伤抵抗: §b+40%'
+   - '§8吸血抵抗: §b+3%'
+   - '§8【PVP】闪避: §b+2.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_90:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知抗性符文2:
+   item: 真知抗性符文2
+-  name: §b✡Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✡Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+11.5%'
+   - '§8暴伤抵抗: §b+45%'
+   - '§8吸血抵抗: §b+4%'
+   - '§8【PVP】闪避: §b+2.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_91:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++真知抗性符文3:
+   item: 真知抗性符文3
+-  name: §b✡Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§b✡Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击躲避: §b+13%'
+   - '§8暴伤抵抗: §b+50%'
+   - '§8吸血抵抗: §b+4%'
+   - '§8【PVP】闪避: §b+2.5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_92:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·攻1:
+   item: 天命仙符·攻1
+-  name: §6❂
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6❂§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+40000-50000'
+   - '§8【PVP】攻击力: §b+10000-12500'
+   - '§8破甲攻击: §b+3%'
+   - '§8命中几率: §b+7%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_93:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·攻2:
+   item: 天命仙符·攻2
+-  name: §6❂Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6❂Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+50000-60000'
+   - '§8【PVP】攻击力: §b+12500-15000'
+   - '§8破甲攻击: §b+4%'
+   - '§8命中几率: §b+8%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_94:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·攻3:
+   item: 天命仙符·攻3
+-  name: §6❂Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§6❂Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+60000-70000'
+   - '§8【PVP】攻击力: §b+15000-17500'
+   - '§8破甲攻击: §b+5%'
+   - '§8命中几率: §b+9%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_95:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·暴1:
+   item: 天命仙符·暴1
+-  name: §5❂
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5❂§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+15%'
+   - '§8暴击伤害: §b+60%'
+   - '§8吸血几率: §b+9%'
+   - '§8移动速度: §b+7%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_96:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·暴2:
+   item: 天命仙符·暴2
+-  name: §5❂Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5❂Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+17%'
+   - '§8暴击伤害: §b+65%'
+   - '§8吸血几率: §b+11%'
+   - '§8移动速度: §b+9%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_97:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·暴3:
+   item: 天命仙符·暴3
+-  name: §5❂Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§5❂Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8暴击几率: §b+17.5%'
+   - '§8暴击伤害: §b+80%'
+   - '§8吸血几率: §b+13%'
+   - '§8移动速度: §b+10%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_98:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·守1:
+   item: 天命仙符·守1
+-  name: §d❂
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§d❂§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+150000'
+   - '§8生命恢复: §b+15000'
+   - '§8PVE防御: §b+20000-25000'
+@@ -1462,18 +1459,18 @@
+   - '§8暴伤抵抗: §b+60%'
+   - '§8吸血抵抗: §b+5%'
+   - '§8【PVP】闪避: §b+5%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_99:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·守2:
+   item: 天命仙符·守2
+-  name: §d❂Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§d❂Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+170000'
+   - '§8生命恢复: §b+17000'
+   - '§8PVE防御: §b+25000-30000'
+@@ -1482,18 +1479,18 @@
+   - '§8暴伤抵抗: §b+65%'
+   - '§8吸血抵抗: §b+7%'
+   - '§8【PVP】闪避: §b+6%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_100:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++天命仙符·守3:
+   item: 天命仙符·守3
+-  name: §d❂Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§d❂Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8生命上限: §b+200000'
+   - '§8生命恢复: §b+20000'
+   - '§8§8PVP防御力: §b+30000-40000'
+@@ -1502,54 +1499,54 @@
+   - '§8暴伤抵抗: §b+70%'
+   - '§8吸血抵抗: §b+8%'
+   - '§8【PVP】闪避: §b+9%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_101:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++焚天泯文1:
+   item: 焚天泯文1
+-  name: §4☯Ⅰ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4☯Ⅰ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+50000-60000'
+   - '§8【PVE】伤害加成: §b+150%'
+   - '§8破甲攻击: §b+10%'
+   - '§8暴击几率: §b+12%'
+   - '§8暴击伤害: §b+300%'
+   - '§8暴击躲避: §b+10%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_102:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++焚天泯文2:
+   item: 焚天泯文2
+-  name: §4☯Ⅱ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4☯Ⅱ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+90000-120000'
+   - '§8【PVE】伤害加成: §b+200%'
+   - '§8破甲攻击: §b+20%'
+   - '§8暴击几率: §b+24%'
+   - '§8暴击伤害: §b+400%'
+   - '§8暴击躲避: §b+20%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
+-CXS4R_103:
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0
++焚天泯文3:
+   item: 焚天泯文3
+-  name: §4☯Ⅲ
+-  load-gem-attribute: false
+-  attribute: []
+-  slot:
+-  - CXS4_符文孔
+-  lore:
++  name: "「§4☯Ⅲ§f」"
++  load-gem-attribute: false
++  attribute:
+   - '§8【PVE】攻击力: §b+150000-200000'
+   - '§8【PVP】攻击力: §b+100000-120000'
+   - '§8【PVE】伤害加成: §b+300%'
+@@ -1557,7 +1554,10 @@
+   - '§8暴击几率: §b+40%'
+   - '§8暴击伤害: §b+600%'
+   - '§8暴击躲避: §b+30%'
+-  inlay:
+-    probability: 1.0
+-  take:
+-    probability: 1.0
++  slot:
++  - CXS4_符文孔
++  lore: []
++  inlay:
++    probability: 1.0
++  take:
++    probability: 1.0

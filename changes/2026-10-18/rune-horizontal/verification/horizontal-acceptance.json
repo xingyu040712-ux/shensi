@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "final_time": "2026-10-18T20:30:33.9987400+08:00",
+  "server_pid_unchanged": 9556,
+  "final_changed_config_files": 8,
+  "other_snapshot_configs_unchanged": 61,
+  "rune_names_quoted_and_bracketed": 104,
+  "attributes_and_empty_lore_preserved": true,
+  "gear_definitions": 70,
+  "total_rune_holes": 253,
+  "new_generation_layout_markers": 70,
+  "native_width_cases_passed": 6,
+  "gui_three_socket_reinsert_relogin_single_row": true,
+  "gui_seven_socket_reinsert_relogin_single_row": true,
+  "seven_runes_returned_and_attributes_restored": true,
+  "old_unmarked_control_unchanged": true,
+  "gui_position_checks": [
+    {
+      "stage": "v3 three remove middle",
+      "row": "「℘Ⅰ」 「✰」 「℘Ⅱ」",
+      "pass": true
+    },
+    {
+      "stage": "v3 three reinstall middle",
+      "row": "「℘Ⅰ」 「ℭⅠ」 「℘Ⅱ」",
+      "pass": true
+    },
+    {
+      "stage": "v3 seven remove middle4",
+      "row": "「℘Ⅰ」 「℘Ⅰ」 「℘Ⅰ」 「✰」 「℘Ⅰ」 「℘Ⅰ」 「℘Ⅰ」",
+      "pass": true
+    },
+    {
+      "stage": "v3 seven reinstall middle4",
+      "row": "「℘Ⅰ」 「℘Ⅰ」 「℘Ⅰ」 「℘Ⅰ」 「℘Ⅰ」 「℘Ⅰ」 「℘Ⅰ」",
+      "pass": true
+    }
+  ],
+  "cleanup": {
+    "player": "CXS4_Test1018",
+    "op": false,
+    "minecraftLevel": 0,
+    "lglLevel": 0,
+    "remainingItems": 0,
+    "cursorEmpty": true
+  },
+  "test_page_removed": true
+}

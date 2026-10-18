@@ -1,0 +1,58 @@
+[
+  {
+    "path": "plugins/YeeGem/gem/CXS4_神四原值符文.yml",
+    "before_sha256": "9d201ed5f33bdd8a37ec3a736751dcacab9a099d5fb6668658e7403db21044aa",
+    "final_sha256": "2ca5cce6dbd26692218ff6a12c13d1781c57a80325e65f9317826b5af7965181",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/YeeGem/gem/CXS4_神四原值符文.yml.patch",
+    "patch_apply_matches_final_text": true
+  },
+  {
+    "path": "plugins/YeeGem/gui/符文页面.yml",
+    "before_sha256": "c0526cf99fb8041b1d7a421cb243538220463d09f482b7be56f17ee3fe4ced16",
+    "final_sha256": "488e8d6d730ddc7b4cc8424748a4c35599682d0ed926e694e47a39819f81024f",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/YeeGem/gui/符文页面.yml.patch",
+    "patch_apply_matches_final_text": true
+  },
+  {
+    "path": "plugins/MythicMobs/Items/世界奇点.yml",
+    "before_sha256": "bd9b88905004bcec3c8d51048d05460c5484cc2eadb3ac98ebbb0bcde42d2b41",
+    "final_sha256": "be3cd41a6e86bde230326a7f2fc7b1f569355f3c63c6e1e420286c412db0170f",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/MythicMobs/Items/世界奇点.yml.patch",
+    "patch_apply_matches_final_text": true
+  },
+  {
+    "path": "plugins/MythicMobs/Items/掉落.yml",
+    "before_sha256": "a0f04106e78fe6df91d63fbb9200e72f6cb455445dc5e004b5683eaf8b6bac48",
+    "final_sha256": "c9ce47e134700b074d1fd95ada7e6ee5c9ea08b5d39348d3a7aee0a20ef2d8e2",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/MythicMobs/Items/掉落.yml.patch",
+    "patch_apply_matches_final_text": true
+  },
+  {
+    "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+    "before_sha256": "55851ff80f5a9b5beb948e38390f43895b5e06cf838bb7e9cbb44949bb0aa64d",
+    "final_sha256": "ded55a0f2f5cb20757b9310108b5e1a0799b3914930ee7e894cc12302bb02c71",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/MythicMobs/Items/黄金古城迁入.yml.patch",
+    "patch_apply_matches_final_text": true
+  },
+  {
+    "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+    "before_sha256": "4a4452789b23eeb340f1cf0d70bbceeefd88bb9023932f4670cd247e7d5b9d49",
+    "final_sha256": "86c5a166611ff3765ff545fdd6bdd47c03bb1d9917b0e7cbc327167233418124",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml.patch",
+    "patch_apply_matches_final_text": true
+  },
+  {
+    "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+    "before_sha256": "8f964a210ed07dff50548c730c6cc9af56d0b2477bebd99e05aa480fc20be677",
+    "final_sha256": "2fdd1f613741d87a9b85c5e1d88437f962328d9e9e3e4ee999be3699795a1baf",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/MythicMobs/Items/新增/新天使装备.yml.patch",
+    "patch_apply_matches_final_text": true
+  },
+  {
+    "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+    "before_sha256": "d80f040d6d19219f23a66a5df514aa15076c2b6f5a5ffba8e8e674721fe40c1b",
+    "final_sha256": "f7ee86d0877ec81f63ca6835fdce8c91468fc1a3cc4e84643f8b52c80f061a39",
+    "patch": "changes/2026-10-18/rune-horizontal/patches/plugins/MythicMobs/Items/魔能系列/魔能装备.yml.patch",
+    "patch_apply_matches_final_text": true
+  }
+]

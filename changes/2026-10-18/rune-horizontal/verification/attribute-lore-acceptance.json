@@ -1,0 +1,68 @@
+{
+  "static": {
+    "entries": 104,
+    "ids_renamed": 103,
+    "lore_blocks_cleared": 103,
+    "lore_lines_removed": 316,
+    "attribute_lines": 320,
+    "attributes_equal_original_rune_design": true,
+    "other_fields_unchanged": true,
+    "before_sha256": "9d201ed5f33bdd8a37ec3a736751dcacab9a099d5fb6668658e7403db21044aa",
+    "after_sha256": "5bd905ac28e6f79b77a244957c3ae6e9bc41305fd8caf2e725ed3677910f2f30"
+  },
+  "runtime_identification": {
+    "total": 104,
+    "passed": 104,
+    "errors": []
+  },
+  "new_holy_and_demon_properties": true,
+  "no_double_count_in_test": true,
+  "new_inlay_has_no_extra_attribute_lore": true,
+  "level24_blocks_both_runes": true,
+  "relogin_values_equal": true,
+  "gui_returns_one_each": true,
+  "removal_restores_baseline": true,
+  "legacy_CXS4R_0_properties_and_removal": true,
+  "legacy_scope": "captured old tag reconstructed on dedicated test gear; not all existing player items",
+  "unchanged_other_gem_files": 8,
+  "server_pid_unchanged": 9556,
+  "test_account_cleanup": {
+    "player": "CXS4_Test1018",
+    "op": false,
+    "minecraftLevel": 0,
+    "lglLevel": 0,
+    "remainingItems": 0,
+    "cursorEmpty": true
+  },
+  "gui_success_events": [
+    {
+      "time": "2026-10-18T11:35:41.722Z",
+      "text": "[系统] 镶嵌成功"
+    },
+    {
+      "time": "2026-10-18T11:36:51.786Z",
+      "text": "[系统] 拆卸成功"
+    },
+    {
+      "time": "2026-10-18T11:38:30.103Z",
+      "text": "[系统] 镶嵌成功"
+    },
+    {
+      "time": "2026-10-18T11:40:30.144Z",
+      "text": "[系统] 镶嵌成功"
+    },
+    {
+      "time": "2026-10-18T11:41:34.900Z",
+      "text": "[系统] 拆卸成功"
+    },
+    {
+      "time": "2026-10-18T11:41:37.300Z",
+      "text": "[系统] 拆卸成功"
+    },
+    {
+      "time": "2026-10-18T11:43:38.982Z",
+      "text": "[系统] 拆卸成功"
+    }
+  ],
+  "final_time": "2026-10-18T19:44:22.1613555+08:00"
+}
