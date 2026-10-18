@@ -1,0 +1,18 @@
+{
+  "changes": [
+    {
+      "id": "药品食物商人",
+      "before": "Adyeshach",
+      "after": "§d药品食物商人",
+      "sameExceptName": true
+    },
+    {
+      "id": "装备材料商人",
+      "before": "Adyeshach",
+      "after": "§4装备材料商人",
+      "sameExceptName": true
+    }
+  ],
+  "allOtherNPCsUnchanged": true,
+  "correctProtocolNames": true
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "药品食物商人",
+    "uuid": "f0c9a7b1-ee2c-4df4-9d8e-14de3bd09bc9",
+    "before": "Adyeshach",
+    "after": "§d药品食物商人"
+  },
+  {
+    "id": "装备材料商人",
+    "uuid": "744ee227-e1be-4741-9e7d-ef813fbfb6bd",
+    "before": "Adyeshach",
+    "after": "§4装备材料商人"
+  }
+]

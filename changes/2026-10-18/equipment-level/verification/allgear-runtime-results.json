@@ -1,0 +1,1058 @@
+{
+  "equipment": [
+    {
+      "id": "终焉烈焰之翼",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "终焉烈焰之翼",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "霸王血铠1",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "霸王血铠2",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "霸王血铠3",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "天空圣剑三星",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "天空战盔三星",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "天空战甲三星",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "天空战胫三星",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "天空战靴三星",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使剑3",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使头盔3",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使胸甲3",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使护腿3",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使靴子3",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使剑4",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使头盔4",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使胸甲4",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使护腿4",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使靴子4",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使剑5",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使头盔5",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使胸甲5",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使护腿5",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "id": "新神圣天使靴子5",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营之剑",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营头盔",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营胸甲",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营护腿",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营靴子",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场之剑",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场头盔",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场胸甲",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场护腿",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场靴子",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒之剑",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒头盔",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒胸甲",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒护腿",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒靴子",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛之剑",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛头盔",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛胸甲",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛护腿",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛靴子",
+      "expected": 2,
+      "actual": 2,
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城之剑",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城头盔",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城胸甲",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城护腿",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城靴子",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷之剑",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷头盔",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷胸甲",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷护腿",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷靴子",
+      "expected": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托之剑",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托头盔",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托胸甲",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托护腿",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托靴子",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频之剑",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频头盔",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频胸甲",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频护腿",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频靴子",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频之剑",
+      "expected": 6,
+      "actual": 6,
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频头盔",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频胸甲",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频护腿",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频靴子",
+      "expected": 5,
+      "actual": 5,
+      "pass": true
+    }
+  ],
+  "runes": [
+    {
+      "id": "圣者符文",
+      "expected": "CXS4R_0",
+      "actual": "CXS4R_0",
+      "pass": true
+    },
+    {
+      "id": "圣者符文2",
+      "expected": "CXS4R_1",
+      "actual": "CXS4R_1",
+      "pass": true
+    },
+    {
+      "id": "圣者符文3",
+      "expected": "CXS4R_2",
+      "actual": "CXS4R_2",
+      "pass": true
+    },
+    {
+      "id": "恶魔符文",
+      "expected": "CXS4R_3",
+      "actual": "CXS4R_3",
+      "pass": true
+    },
+    {
+      "id": "恶魔符文2",
+      "expected": "CXS4R_4",
+      "actual": "CXS4R_4",
+      "pass": true
+    },
+    {
+      "id": "恶魔符文3",
+      "expected": "CXS4R_5",
+      "actual": "CXS4R_5",
+      "pass": true
+    },
+    {
+      "id": "神圣符文",
+      "expected": "CXS4R_6",
+      "actual": "CXS4R_6",
+      "pass": true
+    },
+    {
+      "id": "神圣符文2",
+      "expected": "CXS4R_7",
+      "actual": "CXS4R_7",
+      "pass": true
+    },
+    {
+      "id": "神圣符文3",
+      "expected": "CXS4R_8",
+      "actual": "CXS4R_8",
+      "pass": true
+    },
+    {
+      "id": "恐惧符文",
+      "expected": "CXS4R_9",
+      "actual": "CXS4R_9",
+      "pass": true
+    },
+    {
+      "id": "恐惧符文2",
+      "expected": "CXS4R_10",
+      "actual": "CXS4R_10",
+      "pass": true
+    },
+    {
+      "id": "恐惧符文3",
+      "expected": "CXS4R_11",
+      "actual": "CXS4R_11",
+      "pass": true
+    },
+    {
+      "id": "天空力量符文1",
+      "expected": "CXS4R_12",
+      "actual": "CXS4R_12",
+      "pass": true
+    },
+    {
+      "id": "天空力量符文2",
+      "expected": "CXS4R_13",
+      "actual": "CXS4R_13",
+      "pass": true
+    },
+    {
+      "id": "天空力量符文3",
+      "expected": "CXS4R_14",
+      "actual": "CXS4R_14",
+      "pass": true
+    },
+    {
+      "id": "天空力量符文4",
+      "expected": "CXS4R_15",
+      "actual": "CXS4R_15",
+      "pass": true
+    },
+    {
+      "id": "天空力量符文5",
+      "expected": "CXS4R_16",
+      "actual": "CXS4R_16",
+      "pass": true
+    },
+    {
+      "id": "天空生命符文1",
+      "expected": "CXS4R_17",
+      "actual": "CXS4R_17",
+      "pass": true
+    },
+    {
+      "id": "天空生命符文2",
+      "expected": "CXS4R_18",
+      "actual": "CXS4R_18",
+      "pass": true
+    },
+    {
+      "id": "天空生命符文3",
+      "expected": "CXS4R_19",
+      "actual": "CXS4R_19",
+      "pass": true
+    },
+    {
+      "id": "天空生命符文4",
+      "expected": "CXS4R_20",
+      "actual": "CXS4R_20",
+      "pass": true
+    },
+    {
+      "id": "天空生命符文5",
+      "expected": "CXS4R_21",
+      "actual": "CXS4R_21",
+      "pass": true
+    },
+    {
+      "id": "天空狂乱符文1",
+      "expected": "CXS4R_22",
+      "actual": "CXS4R_22",
+      "pass": true
+    },
+    {
+      "id": "天空狂乱符文2",
+      "expected": "CXS4R_23",
+      "actual": "CXS4R_23",
+      "pass": true
+    },
+    {
+      "id": "天空狂乱符文3",
+      "expected": "CXS4R_24",
+      "actual": "CXS4R_24",
+      "pass": true
+    },
+    {
+      "id": "天空狂乱符文4",
+      "expected": "CXS4R_25",
+      "actual": "CXS4R_25",
+      "pass": true
+    },
+    {
+      "id": "天空狂乱符文5",
+      "expected": "CXS4R_26",
+      "actual": "CXS4R_26",
+      "pass": true
+    },
+    {
+      "id": "天空护盾符文1",
+      "expected": "CXS4R_27",
+      "actual": "CXS4R_27",
+      "pass": true
+    },
+    {
+      "id": "天空护盾符文2",
+      "expected": "CXS4R_28",
+      "actual": "CXS4R_28",
+      "pass": true
+    },
+    {
+      "id": "天空护盾符文3",
+      "expected": "CXS4R_29",
+      "actual": "CXS4R_29",
+      "pass": true
+    },
+    {
+      "id": "天空护盾符文4",
+      "expected": "CXS4R_30",
+      "actual": "CXS4R_30",
+      "pass": true
+    },
+    {
+      "id": "天空护盾符文5",
+      "expected": "CXS4R_31",
+      "actual": "CXS4R_31",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文1",
+      "expected": "CXS4R_32",
+      "actual": "CXS4R_32",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文2",
+      "expected": "CXS4R_33",
+      "actual": "CXS4R_33",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文3",
+      "expected": "CXS4R_34",
+      "actual": "CXS4R_34",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文4",
+      "expected": "CXS4R_35",
+      "actual": "CXS4R_35",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文5",
+      "expected": "CXS4R_36",
+      "actual": "CXS4R_36",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文6",
+      "expected": "CXS4R_37",
+      "actual": "CXS4R_37",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文7",
+      "expected": "CXS4R_38",
+      "actual": "CXS4R_38",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文8",
+      "expected": "CXS4R_39",
+      "actual": "CXS4R_39",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文9",
+      "expected": "CXS4R_40",
+      "actual": "CXS4R_40",
+      "pass": true
+    },
+    {
+      "id": "魔能攻击符文10",
+      "expected": "CXS4R_41",
+      "actual": "CXS4R_41",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文1",
+      "expected": "CXS4R_42",
+      "actual": "CXS4R_42",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文2",
+      "expected": "CXS4R_43",
+      "actual": "CXS4R_43",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文3",
+      "expected": "CXS4R_44",
+      "actual": "CXS4R_44",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文4",
+      "expected": "CXS4R_45",
+      "actual": "CXS4R_45",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文5",
+      "expected": "CXS4R_46",
+      "actual": "CXS4R_46",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文6",
+      "expected": "CXS4R_47",
+      "actual": "CXS4R_47",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文7",
+      "expected": "CXS4R_48",
+      "actual": "CXS4R_48",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文8",
+      "expected": "CXS4R_49",
+      "actual": "CXS4R_49",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文9",
+      "expected": "CXS4R_50",
+      "actual": "CXS4R_50",
+      "pass": true
+    },
+    {
+      "id": "魔能抗性符文10",
+      "expected": "CXS4R_51",
+      "actual": "CXS4R_51",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文1",
+      "expected": "CXS4R_52",
+      "actual": "CXS4R_52",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文2",
+      "expected": "CXS4R_53",
+      "actual": "CXS4R_53",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文3",
+      "expected": "CXS4R_54",
+      "actual": "CXS4R_54",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文4",
+      "expected": "CXS4R_55",
+      "actual": "CXS4R_55",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文5",
+      "expected": "CXS4R_56",
+      "actual": "CXS4R_56",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文6",
+      "expected": "CXS4R_57",
+      "actual": "CXS4R_57",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文7",
+      "expected": "CXS4R_58",
+      "actual": "CXS4R_58",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文8",
+      "expected": "CXS4R_59",
+      "actual": "CXS4R_59",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文9",
+      "expected": "CXS4R_60",
+      "actual": "CXS4R_60",
+      "pass": true
+    },
+    {
+      "id": "魔能活性符文10",
+      "expected": "CXS4R_61",
+      "actual": "CXS4R_61",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文1",
+      "expected": "CXS4R_62",
+      "actual": "CXS4R_62",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文2",
+      "expected": "CXS4R_63",
+      "actual": "CXS4R_63",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文3",
+      "expected": "CXS4R_64",
+      "actual": "CXS4R_64",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文4",
+      "expected": "CXS4R_65",
+      "actual": "CXS4R_65",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文5",
+      "expected": "CXS4R_66",
+      "actual": "CXS4R_66",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文6",
+      "expected": "CXS4R_67",
+      "actual": "CXS4R_67",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文7",
+      "expected": "CXS4R_68",
+      "actual": "CXS4R_68",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文8",
+      "expected": "CXS4R_69",
+      "actual": "CXS4R_69",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文9",
+      "expected": "CXS4R_70",
+      "actual": "CXS4R_70",
+      "pass": true
+    },
+    {
+      "id": "魔能狂暴符文10",
+      "expected": "CXS4R_71",
+      "actual": "CXS4R_71",
+      "pass": true
+    },
+    {
+      "id": "圣者活性符文",
+      "expected": "CXS4R_72",
+      "actual": "CXS4R_72",
+      "pass": true
+    },
+    {
+      "id": "神圣抗性符文",
+      "expected": "CXS4R_73",
+      "actual": "CXS4R_73",
+      "pass": true
+    },
+    {
+      "id": "恶魔攻击符文",
+      "expected": "CXS4R_74",
+      "actual": "CXS4R_74",
+      "pass": true
+    },
+    {
+      "id": "恐惧狂暴符文",
+      "expected": "CXS4R_75",
+      "actual": "CXS4R_75",
+      "pass": true
+    },
+    {
+      "id": "力量恶魔攻击符文",
+      "expected": "CXS4R_76",
+      "actual": "CXS4R_76",
+      "pass": true
+    },
+    {
+      "id": "生命圣者活性符文",
+      "expected": "CXS4R_77",
+      "actual": "CXS4R_77",
+      "pass": true
+    },
+    {
+      "id": "狂乱恐惧狂暴符文",
+      "expected": "CXS4R_78",
+      "actual": "CXS4R_78",
+      "pass": true
+    },
+    {
+      "id": "护盾神圣抗性符文",
+      "expected": "CXS4R_79",
+      "actual": "CXS4R_79",
+      "pass": true
+    },
+    {
+      "id": "真知攻性符文",
+      "expected": "CXS4R_80",
+      "actual": "CXS4R_80",
+      "pass": true
+    },
+    {
+      "id": "真知攻性符文2",
+      "expected": "CXS4R_81",
+      "actual": "CXS4R_81",
+      "pass": true
+    },
+    {
+      "id": "真知攻性符文3",
+      "expected": "CXS4R_82",
+      "actual": "CXS4R_82",
+      "pass": true
+    },
+    {
+      "id": "真知狂性符文",
+      "expected": "CXS4R_83",
+      "actual": "CXS4R_83",
+      "pass": true
+    },
+    {
+      "id": "真知狂性符文2",
+      "expected": "CXS4R_84",
+      "actual": "CXS4R_84",
+      "pass": true
+    },
+    {
+      "id": "真知狂性符文3",
+      "expected": "CXS4R_85",
+      "actual": "CXS4R_85",
+      "pass": true
+    },
+    {
+      "id": "真知活性符文",
+      "expected": "CXS4R_86",
+      "actual": "CXS4R_86",
+      "pass": true
+    },
+    {
+      "id": "真知活性符文2",
+      "expected": "CXS4R_87",
+      "actual": "CXS4R_87",
+      "pass": true
+    },
+    {
+      "id": "真知活性符文3",
+      "expected": "CXS4R_88",
+      "actual": "CXS4R_88",
+      "pass": true
+    },
+    {
+      "id": "真知抗性符文",
+      "expected": "CXS4R_89",
+      "actual": "CXS4R_89",
+      "pass": true
+    },
+    {
+      "id": "真知抗性符文2",
+      "expected": "CXS4R_90",
+      "actual": "CXS4R_90",
+      "pass": true
+    },
+    {
+      "id": "真知抗性符文3",
+      "expected": "CXS4R_91",
+      "actual": "CXS4R_91",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·攻1",
+      "expected": "CXS4R_92",
+      "actual": "CXS4R_92",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·攻2",
+      "expected": "CXS4R_93",
+      "actual": "CXS4R_93",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·攻3",
+      "expected": "CXS4R_94",
+      "actual": "CXS4R_94",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·暴1",
+      "expected": "CXS4R_95",
+      "actual": "CXS4R_95",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·暴2",
+      "expected": "CXS4R_96",
+      "actual": "CXS4R_96",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·暴3",
+      "expected": "CXS4R_97",
+      "actual": "CXS4R_97",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·守1",
+      "expected": "CXS4R_98",
+      "actual": "CXS4R_98",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·守2",
+      "expected": "CXS4R_99",
+      "actual": "CXS4R_99",
+      "pass": true
+    },
+    {
+      "id": "天命仙符·守3",
+      "expected": "CXS4R_100",
+      "actual": "CXS4R_100",
+      "pass": true
+    },
+    {
+      "id": "焚天泯文1",
+      "expected": "CXS4R_101",
+      "actual": "CXS4R_101",
+      "pass": true
+    },
+    {
+      "id": "焚天泯文2",
+      "expected": "CXS4R_102",
+      "actual": "CXS4R_102",
+      "pass": true
+    },
+    {
+      "id": "焚天泯文3",
+      "expected": "CXS4R_103",
+      "actual": "CXS4R_103",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "equipment": 70,
+    "runes": 104,
+    "holes": 253,
+    "failures": [],
+    "errors": []
+  }
+}

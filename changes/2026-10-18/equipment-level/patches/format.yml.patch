@@ -1,0 +1,18 @@
+--- a/plugins/AttributePlus/format.yml
++++ b/plugins/AttributePlus/format.yml
+@@ -39,6 +39,15 @@
+ 
+ #自定义规则标签
+ custom-condition-component:
++  equipment-level:
++    # 兼容神四旧装备等级标签，使用 LyGalaxyLevel default 节点
++    key: "装备等级"
++    formats:
++      - "{key}[ :：]*@value"
++    conditions:
++      - check '%lgl_default_level%' >= {value_min_0}
++      - any [ check '{value_max_0}' == 'none' check '%lgl_default_level%' <= {value_max_0} ]
++    message: "&c你不满足 &6{item_name} &c的装备等级要求"
+   example:
+     #添加至物品的标签
+     key: "战力要求"
