@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-19",
+  "hashAlgorithm": "SHA-256",
+  "note": "原始与部署文件的字节哈希。补丁使用 LF，应用后的文本已与部署配置核对；源码重新打包的 JAR 哈希可能不同。",
+  "files": [
+    {
+      "path": "plugins/MythicMobs/Items/世界奇点.yml",
+      "before": "be3cd41a6e86bde230326a7f2fc7b1f569355f3c63c6e1e420286c412db0170f",
+      "after": "61424dd5f2f5ee650eee918a3ebef9d9b4b960aec335a81b3b07655c374c5316",
+      "patch": "patches/plugins/MythicMobs/Items/世界奇点.yml.patch"
+    },
+    {
+      "path": "plugins/MythicMobs/Items/掉落.yml",
+      "before": "c9ce47e134700b074d1fd95ada7e6ee5c9ea08b5d39348d3a7aee0a20ef2d8e2",
+      "after": "c4ea0db4e38a9b430474f2694c5b5aeb1c364ffb1ddc718aa78332f57fa856f9",
+      "patch": "patches/plugins/MythicMobs/Items/掉落.yml.patch"
+    },
+    {
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "before": "ded55a0f2f5cb20757b9310108b5e1a0799b3914930ee7e894cc12302bb02c71",
+      "after": "521dad1ddb5d5cdf851d31ebb06253ffc43c325b9b76d3137cdc0638047f7dec",
+      "patch": "patches/plugins/MythicMobs/Items/黄金古城迁入.yml.patch"
+    },
+    {
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "before": "86c5a166611ff3765ff545fdd6bdd47c03bb1d9917b0e7cbc327167233418124",
+      "after": "780c42e04f1260cc4b1cf5d2fb55dedda0077af5ece88d4e011e1a1b01a55f51",
+      "patch": "patches/plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml.patch"
+    },
+    {
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "before": "2fdd1f613741d87a9b85c5e1d88437f962328d9e9e3e4ee999be3699795a1baf",
+      "after": "4330ee0af56adc1465d2845ac15e507bf4a6663e74a2409fb5650f3761f99d7b",
+      "patch": "patches/plugins/MythicMobs/Items/新增/新天使装备.yml.patch"
+    },
+    {
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "before": "6326c8e02ea0bfb9d8c8dfdf06c829265a85dc86faca2640c32a8ce33f73836f",
+      "after": "3dda3ac8d6da2647f0ef2e2b268440b4db59c6c53e5ba4cfdcb872046d8730a7",
+      "patch": "patches/plugins/MythicMobs/Items/魔能系列/魔能装备.yml.patch"
+    },
+    {
+      "path": "plugins/YeeGem/gui/符文页面.yml",
+      "before": "488e8d6d730ddc7b4cc8424748a4c35599682d0ed926e694e47a39819f81024f",
+      "after": "c0526cf99fb8041b1d7a421cb243538220463d09f482b7be56f17ee3fe4ced16",
+      "patch": "patches/plugins/YeeGem/gui/符文页面.yml.patch"
+    },
+    {
+      "path": "plugins/CxsRuneCompat-1.0.jar",
+      "before": "009c41e7a6158e2cbbcf1de807a740fe5c716627a055cf6d2787523cbed8b250",
+      "after": "92bacf9e552cae8a841fb9bb581868453adb2f9a232156aec33d1d299f455481",
+      "source": "src/codex/InlineRuneCompat.java",
+      "pluginVersion": "1.2",
+      "binaryPublished": false
+    }
+  ]
+}

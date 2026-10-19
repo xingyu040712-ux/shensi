@@ -1,0 +1,38 @@
+{
+  "files": [
+    {
+      "path": "plugins/MythicMobs/Items/世界奇点.yml",
+      "definitions": 1,
+      "only_lore_grouping_and_layout_metadata_changed": true
+    },
+    {
+      "path": "plugins/MythicMobs/Items/掉落.yml",
+      "definitions": 1,
+      "only_lore_grouping_and_layout_metadata_changed": true
+    },
+    {
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "definitions": 3,
+      "only_lore_grouping_and_layout_metadata_changed": true
+    },
+    {
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "definitions": 5,
+      "only_lore_grouping_and_layout_metadata_changed": true
+    },
+    {
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "definitions": 15,
+      "only_lore_grouping_and_layout_metadata_changed": true
+    },
+    {
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "definitions": 46,
+      "only_lore_grouping_and_layout_metadata_changed": true
+    }
+  ],
+  "total": 71,
+  "preserves_slot_counts": true,
+  "preserves_attributes_levels_other_lore": true,
+  "gui_only_removes_previous_layout_actions": true
+}

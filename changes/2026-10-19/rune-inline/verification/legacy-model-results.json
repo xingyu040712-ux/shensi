@@ -1,0 +1,497 @@
+{
+  "total": 70,
+  "passed": 70,
+  "cases": [
+    {
+      "id": "终焉烈焰之翼",
+      "pass": true,
+      "slots": 6,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "霸王血铠1",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "霸王血铠2",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "霸王血铠3",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "天空圣剑三星",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "天空战盔三星",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "天空战甲三星",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "天空战胫三星",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "天空战靴三星",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使剑3",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使头盔3",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使胸甲3",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使护腿3",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使靴子3",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使剑4",
+      "pass": true,
+      "slots": 6,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使头盔4",
+      "pass": true,
+      "slots": 6,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使胸甲4",
+      "pass": true,
+      "slots": 6,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使护腿4",
+      "pass": true,
+      "slots": 6,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使靴子4",
+      "pass": true,
+      "slots": 6,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使剑5",
+      "pass": true,
+      "slots": 7,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使头盔5",
+      "pass": true,
+      "slots": 7,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使胸甲5",
+      "pass": true,
+      "slots": 7,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使护腿5",
+      "pass": true,
+      "slots": 7,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "新神圣天使靴子5",
+      "pass": true,
+      "slots": 7,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·训练营之剑1",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·训练营之剑",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·训练营头盔",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·训练营胸甲",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·训练营护腿",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·训练营靴子",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·前线战场之剑",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·前线战场头盔",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·前线战场胸甲",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·前线战场护腿",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·前线战场靴子",
+      "pass": true,
+      "slots": 1,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·魔族堡垒之剑",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·魔族堡垒头盔",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·魔族堡垒胸甲",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·魔族堡垒护腿",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·魔族堡垒靴子",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·堕落祭坛之剑",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·堕落祭坛头盔",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·堕落祭坛胸甲",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·堕落祭坛护腿",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·堕落祭坛靴子",
+      "pass": true,
+      "slots": 2,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·遗忘都城之剑",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·遗忘都城头盔",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·遗忘都城胸甲",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·遗忘都城护腿",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·遗忘都城靴子",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·死亡峡谷之剑",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·死亡峡谷头盔",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·死亡峡谷胸甲",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·死亡峡谷护腿",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·死亡峡谷靴子",
+      "pass": true,
+      "slots": 3,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托之剑",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托头盔",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托胸甲",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托护腿",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托靴子",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频之剑",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频头盔",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频胸甲",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频护腿",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频靴子",
+      "pass": true,
+      "slots": 4,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·天族净化超频之剑",
+      "pass": true,
+      "slots": 6,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·天族净化超频头盔",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·天族净化超频胸甲",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·天族净化超频护腿",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    },
+    {
+      "id": "魔能·天族净化超频靴子",
+      "pass": true,
+      "slots": 5,
+      "nbtExceptLoreUnchanged": true,
+      "restoreEqualsOriginal": true
+    }
+  ],
+  "note": "restoreEqualsOriginal 指备份反序列化与原物品相等的离线校验；未执行线上物品回退。完整备份及玩家信息未发布。"
+}

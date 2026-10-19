@@ -1,0 +1,15 @@
+{
+  "op": false,
+  "oldGemIds": [
+    "圣者符文",
+    "恶魔符文",
+    "圣者符文2"
+  ],
+  "newGemIds": [
+    "圣者符文",
+    "恶魔符文",
+    "圣者符文2"
+  ],
+  "nbtExceptLoreUnchanged": true,
+  "pass": true
+}

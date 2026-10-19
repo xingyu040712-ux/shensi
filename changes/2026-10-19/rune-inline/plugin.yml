@@ -1,0 +1,5 @@
+name: CxsRuneCompat
+main: codex.InlineRuneCompat
+version: 1.2
+description: Preserve rune data and compact the rune prefix and all rune slots onto one Lore line, backing up original items first.
+softdepend: [YeeGem]

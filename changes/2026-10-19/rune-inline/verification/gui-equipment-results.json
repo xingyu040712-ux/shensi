@@ -1,0 +1,1134 @@
+{
+  "equipmentCount": 70,
+  "finalStageCount": 140,
+  "finalPassed": 140,
+  "attemptHistory": {
+    "attempts": 143,
+    "passed": 141,
+    "failedAttempts": 2,
+    "note": "原始记录包含两次客户端光标/点击时序失败；等待并重试后，各装备最终镶嵌和拆卸阶段全部通过。"
+  },
+  "method": "Minecraft 1.12.2 协议客户端真实 GUI；以服务端物品、孔数、符文 NBT 和返还结果判定。filled 阶段每件装一枚；逐孔满镶由独立 API 测试覆盖。",
+  "checks": [
+    {
+      "index": 0,
+      "id": "终焉烈焰之翼",
+      "stage": "filled",
+      "pass": true,
+      "slots": 6,
+      "gems": 1
+    },
+    {
+      "index": 0,
+      "id": "终焉烈焰之翼",
+      "stage": "removed",
+      "pass": true,
+      "slots": 6,
+      "gems": 0
+    },
+    {
+      "index": 1,
+      "id": "霸王血铠1",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 1,
+      "id": "霸王血铠1",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 2,
+      "id": "霸王血铠2",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 2,
+      "id": "霸王血铠2",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 3,
+      "id": "霸王血铠3",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 3,
+      "id": "霸王血铠3",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 4,
+      "id": "天空圣剑三星",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 4,
+      "id": "天空圣剑三星",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 5,
+      "id": "天空战盔三星",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 5,
+      "id": "天空战盔三星",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 6,
+      "id": "天空战甲三星",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 6,
+      "id": "天空战甲三星",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 7,
+      "id": "天空战胫三星",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 7,
+      "id": "天空战胫三星",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 8,
+      "id": "天空战靴三星",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 8,
+      "id": "天空战靴三星",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 9,
+      "id": "新神圣天使剑3",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 9,
+      "id": "新神圣天使剑3",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 10,
+      "id": "新神圣天使头盔3",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 10,
+      "id": "新神圣天使头盔3",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 11,
+      "id": "新神圣天使胸甲3",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 11,
+      "id": "新神圣天使胸甲3",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 12,
+      "id": "新神圣天使护腿3",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 12,
+      "id": "新神圣天使护腿3",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 13,
+      "id": "新神圣天使靴子3",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 13,
+      "id": "新神圣天使靴子3",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 14,
+      "id": "新神圣天使剑4",
+      "stage": "filled",
+      "pass": true,
+      "slots": 6,
+      "gems": 1
+    },
+    {
+      "index": 14,
+      "id": "新神圣天使剑4",
+      "stage": "removed",
+      "pass": true,
+      "slots": 6,
+      "gems": 0
+    },
+    {
+      "index": 15,
+      "id": "新神圣天使头盔4",
+      "stage": "filled",
+      "pass": true,
+      "slots": 6,
+      "gems": 1
+    },
+    {
+      "index": 15,
+      "id": "新神圣天使头盔4",
+      "stage": "removed",
+      "pass": true,
+      "slots": 6,
+      "gems": 0
+    },
+    {
+      "index": 16,
+      "id": "新神圣天使胸甲4",
+      "stage": "filled",
+      "pass": true,
+      "slots": 6,
+      "gems": 1
+    },
+    {
+      "index": 16,
+      "id": "新神圣天使胸甲4",
+      "stage": "removed",
+      "pass": true,
+      "slots": 6,
+      "gems": 0
+    },
+    {
+      "index": 17,
+      "id": "新神圣天使护腿4",
+      "stage": "filled",
+      "pass": true,
+      "slots": 6,
+      "gems": 1
+    },
+    {
+      "index": 17,
+      "id": "新神圣天使护腿4",
+      "stage": "removed",
+      "pass": true,
+      "slots": 6,
+      "gems": 0
+    },
+    {
+      "index": 18,
+      "id": "新神圣天使靴子4",
+      "stage": "filled",
+      "pass": true,
+      "slots": 6,
+      "gems": 1
+    },
+    {
+      "index": 18,
+      "id": "新神圣天使靴子4",
+      "stage": "removed",
+      "pass": true,
+      "slots": 6,
+      "gems": 0
+    },
+    {
+      "index": 19,
+      "id": "新神圣天使剑5",
+      "stage": "filled",
+      "pass": true,
+      "slots": 7,
+      "gems": 1
+    },
+    {
+      "index": 19,
+      "id": "新神圣天使剑5",
+      "stage": "removed",
+      "pass": true,
+      "slots": 7,
+      "gems": 0
+    },
+    {
+      "index": 20,
+      "id": "新神圣天使头盔5",
+      "stage": "filled",
+      "pass": true,
+      "slots": 7,
+      "gems": 1
+    },
+    {
+      "index": 20,
+      "id": "新神圣天使头盔5",
+      "stage": "removed",
+      "pass": true,
+      "slots": 7,
+      "gems": 0
+    },
+    {
+      "index": 21,
+      "id": "新神圣天使胸甲5",
+      "stage": "filled",
+      "pass": true,
+      "slots": 7,
+      "gems": 1
+    },
+    {
+      "index": 21,
+      "id": "新神圣天使胸甲5",
+      "stage": "removed",
+      "pass": true,
+      "slots": 7,
+      "gems": 0
+    },
+    {
+      "index": 22,
+      "id": "新神圣天使护腿5",
+      "stage": "filled",
+      "pass": true,
+      "slots": 7,
+      "gems": 1
+    },
+    {
+      "index": 22,
+      "id": "新神圣天使护腿5",
+      "stage": "removed",
+      "pass": true,
+      "slots": 7,
+      "gems": 0
+    },
+    {
+      "index": 23,
+      "id": "新神圣天使靴子5",
+      "stage": "filled",
+      "pass": true,
+      "slots": 7,
+      "gems": 1
+    },
+    {
+      "index": 23,
+      "id": "新神圣天使靴子5",
+      "stage": "removed",
+      "pass": true,
+      "slots": 7,
+      "gems": 0
+    },
+    {
+      "index": 24,
+      "id": "魔能·训练营之剑1",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 24,
+      "id": "魔能·训练营之剑1",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 25,
+      "id": "魔能·训练营之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 25,
+      "id": "魔能·训练营之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 26,
+      "id": "魔能·训练营头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 26,
+      "id": "魔能·训练营头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 27,
+      "id": "魔能·训练营胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 27,
+      "id": "魔能·训练营胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 28,
+      "id": "魔能·训练营护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 28,
+      "id": "魔能·训练营护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 29,
+      "id": "魔能·训练营靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 29,
+      "id": "魔能·训练营靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 30,
+      "id": "魔能·前线战场之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 30,
+      "id": "魔能·前线战场之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 31,
+      "id": "魔能·前线战场头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 31,
+      "id": "魔能·前线战场头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 32,
+      "id": "魔能·前线战场胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 32,
+      "id": "魔能·前线战场胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 33,
+      "id": "魔能·前线战场护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 33,
+      "id": "魔能·前线战场护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 34,
+      "id": "魔能·前线战场靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 1,
+      "gems": 1
+    },
+    {
+      "index": 34,
+      "id": "魔能·前线战场靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 1,
+      "gems": 0
+    },
+    {
+      "index": 35,
+      "id": "魔能·魔族堡垒之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 35,
+      "id": "魔能·魔族堡垒之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 36,
+      "id": "魔能·魔族堡垒头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 36,
+      "id": "魔能·魔族堡垒头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 37,
+      "id": "魔能·魔族堡垒胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 37,
+      "id": "魔能·魔族堡垒胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 38,
+      "id": "魔能·魔族堡垒护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 38,
+      "id": "魔能·魔族堡垒护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 39,
+      "id": "魔能·魔族堡垒靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 39,
+      "id": "魔能·魔族堡垒靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 40,
+      "id": "魔能·堕落祭坛之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 40,
+      "id": "魔能·堕落祭坛之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 41,
+      "id": "魔能·堕落祭坛头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 41,
+      "id": "魔能·堕落祭坛头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 42,
+      "id": "魔能·堕落祭坛胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 42,
+      "id": "魔能·堕落祭坛胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 43,
+      "id": "魔能·堕落祭坛护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 43,
+      "id": "魔能·堕落祭坛护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 44,
+      "id": "魔能·堕落祭坛靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 2,
+      "gems": 1
+    },
+    {
+      "index": 44,
+      "id": "魔能·堕落祭坛靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 2,
+      "gems": 0
+    },
+    {
+      "index": 45,
+      "id": "魔能·遗忘都城之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 45,
+      "id": "魔能·遗忘都城之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 46,
+      "id": "魔能·遗忘都城头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 46,
+      "id": "魔能·遗忘都城头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 47,
+      "id": "魔能·遗忘都城胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 47,
+      "id": "魔能·遗忘都城胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 48,
+      "id": "魔能·遗忘都城护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 48,
+      "id": "魔能·遗忘都城护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 49,
+      "id": "魔能·遗忘都城靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 49,
+      "id": "魔能·遗忘都城靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 50,
+      "id": "魔能·死亡峡谷之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 50,
+      "id": "魔能·死亡峡谷之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 51,
+      "id": "魔能·死亡峡谷头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 51,
+      "id": "魔能·死亡峡谷头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 52,
+      "id": "魔能·死亡峡谷胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 52,
+      "id": "魔能·死亡峡谷胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 53,
+      "id": "魔能·死亡峡谷护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 53,
+      "id": "魔能·死亡峡谷护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 54,
+      "id": "魔能·死亡峡谷靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 3,
+      "gems": 1
+    },
+    {
+      "index": 54,
+      "id": "魔能·死亡峡谷靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 3,
+      "gems": 0
+    },
+    {
+      "index": 55,
+      "id": "魔能·莫洛斯托之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 55,
+      "id": "魔能·莫洛斯托之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 56,
+      "id": "魔能·莫洛斯托头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 56,
+      "id": "魔能·莫洛斯托头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 57,
+      "id": "魔能·莫洛斯托胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 57,
+      "id": "魔能·莫洛斯托胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 58,
+      "id": "魔能·莫洛斯托护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 58,
+      "id": "魔能·莫洛斯托护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 59,
+      "id": "魔能·莫洛斯托靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 59,
+      "id": "魔能·莫洛斯托靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 60,
+      "id": "魔能·莫洛斯托超频之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 60,
+      "id": "魔能·莫洛斯托超频之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 61,
+      "id": "魔能·莫洛斯托超频头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 61,
+      "id": "魔能·莫洛斯托超频头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 62,
+      "id": "魔能·莫洛斯托超频胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 62,
+      "id": "魔能·莫洛斯托超频胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 63,
+      "id": "魔能·莫洛斯托超频护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 63,
+      "id": "魔能·莫洛斯托超频护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 64,
+      "id": "魔能·莫洛斯托超频靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 4,
+      "gems": 1
+    },
+    {
+      "index": 64,
+      "id": "魔能·莫洛斯托超频靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 4,
+      "gems": 0
+    },
+    {
+      "index": 65,
+      "id": "魔能·天族净化超频之剑",
+      "stage": "filled",
+      "pass": true,
+      "slots": 6,
+      "gems": 1
+    },
+    {
+      "index": 65,
+      "id": "魔能·天族净化超频之剑",
+      "stage": "removed",
+      "pass": true,
+      "slots": 6,
+      "gems": 0
+    },
+    {
+      "index": 66,
+      "id": "魔能·天族净化超频头盔",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 66,
+      "id": "魔能·天族净化超频头盔",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 67,
+      "id": "魔能·天族净化超频胸甲",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 67,
+      "id": "魔能·天族净化超频胸甲",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 68,
+      "id": "魔能·天族净化超频护腿",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 68,
+      "id": "魔能·天族净化超频护腿",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    },
+    {
+      "index": 69,
+      "id": "魔能·天族净化超频靴子",
+      "stage": "filled",
+      "pass": true,
+      "slots": 5,
+      "gems": 1
+    },
+    {
+      "index": 69,
+      "id": "魔能·天族净化超频靴子",
+      "stage": "removed",
+      "pass": true,
+      "slots": 5,
+      "gems": 0
+    }
+  ]
+}

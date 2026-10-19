@@ -1,0 +1,10 @@
+{
+  "templates": 71,
+  "passed": 71,
+  "failures": [],
+  "edge": {
+    "fragmentsPreserved": true,
+    "withoutHeaderUnchanged": true,
+    "chineseNoteUnchanged": true
+  }
+}

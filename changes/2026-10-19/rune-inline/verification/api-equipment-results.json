@@ -1,0 +1,1629 @@
+{
+  "sourceDefinitions": 71,
+  "sourcePassed": 71,
+  "sourceChecks": [
+    {
+      "id": "终焉烈焰之翼",
+      "path": "plugins/MythicMobs/Items/世界奇点.yml",
+      "pass": true
+    },
+    {
+      "id": "终焉烈焰之翼",
+      "path": "plugins/MythicMobs/Items/掉落.yml",
+      "pass": true
+    },
+    {
+      "id": "霸王血铠1",
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "pass": true
+    },
+    {
+      "id": "霸王血铠2",
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "pass": true
+    },
+    {
+      "id": "霸王血铠3",
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "pass": true
+    },
+    {
+      "id": "天空圣剑三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "pass": true
+    },
+    {
+      "id": "天空战盔三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "pass": true
+    },
+    {
+      "id": "天空战甲三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "pass": true
+    },
+    {
+      "id": "天空战胫三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "pass": true
+    },
+    {
+      "id": "天空战靴三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使剑3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使头盔3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使胸甲3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使护腿3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使靴子3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使剑4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使头盔4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使胸甲4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使护腿4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使靴子4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使剑5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使头盔5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使胸甲5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使护腿5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "新神圣天使靴子5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营之剑1",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·训练营靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·前线战场靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·魔族堡垒靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·堕落祭坛靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·遗忘都城靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·死亡峡谷靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    },
+    {
+      "id": "魔能·天族净化超频靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "pass": true
+    }
+  ],
+  "resolved": [
+    {
+      "id": "终焉烈焰之翼",
+      "loadedPath": "plugins/MythicMobs/Items/世界奇点.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/世界奇点.yml",
+        "plugins/MythicMobs/Items/掉落.yml"
+      ]
+    },
+    {
+      "id": "霸王血铠1",
+      "loadedPath": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/黄金古城迁入.yml"
+      ]
+    },
+    {
+      "id": "霸王血铠2",
+      "loadedPath": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/黄金古城迁入.yml"
+      ]
+    },
+    {
+      "id": "霸王血铠3",
+      "loadedPath": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/黄金古城迁入.yml"
+      ]
+    },
+    {
+      "id": "天空圣剑三星",
+      "loadedPath": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml"
+      ]
+    },
+    {
+      "id": "天空战盔三星",
+      "loadedPath": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml"
+      ]
+    },
+    {
+      "id": "天空战甲三星",
+      "loadedPath": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml"
+      ]
+    },
+    {
+      "id": "天空战胫三星",
+      "loadedPath": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml"
+      ]
+    },
+    {
+      "id": "天空战靴三星",
+      "loadedPath": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使剑3",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使头盔3",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使胸甲3",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使护腿3",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使靴子3",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使剑4",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使头盔4",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使胸甲4",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使护腿4",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使靴子4",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使剑5",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使头盔5",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使胸甲5",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使护腿5",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "新神圣天使靴子5",
+      "loadedPath": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/新增/新天使装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·训练营之剑1",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·训练营之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·训练营头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·训练营胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·训练营护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·训练营靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·前线战场之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·前线战场头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·前线战场胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·前线战场护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·前线战场靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·魔族堡垒之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·魔族堡垒头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·魔族堡垒胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·魔族堡垒护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·魔族堡垒靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·堕落祭坛之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·堕落祭坛头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·堕落祭坛胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·堕落祭坛护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·堕落祭坛靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·遗忘都城之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·遗忘都城头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·遗忘都城胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·遗忘都城护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·遗忘都城靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·死亡峡谷之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·死亡峡谷头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·死亡峡谷胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·死亡峡谷护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·死亡峡谷靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托超频之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托超频头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托超频胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托超频护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·莫洛斯托超频靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·天族净化超频之剑",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·天族净化超频头盔",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·天族净化超频胸甲",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·天族净化超频护腿",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    },
+    {
+      "id": "魔能·天族净化超频靴子",
+      "loadedPath": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "sourcePaths": [
+        "plugins/MythicMobs/Items/魔能系列/魔能装备.yml"
+      ]
+    }
+  ],
+  "total": 70,
+  "passed": 70,
+  "cases": [
+    {
+      "id": "终焉烈焰之翼",
+      "path": "plugins/MythicMobs/Items/世界奇点.yml",
+      "slots": 6,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "霸王血铠1",
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "霸王血铠2",
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "霸王血铠3",
+      "path": "plugins/MythicMobs/Items/黄金古城迁入.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "天空圣剑三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "天空战盔三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "天空战甲三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "天空战胫三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "天空战靴三星",
+      "path": "plugins/MythicMobs/Items/怪物掉落装备/7第七层.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使剑3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使头盔3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使胸甲3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使护腿3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使靴子3",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使剑4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 6,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使头盔4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 6,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使胸甲4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 6,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使护腿4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 6,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使靴子4",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 6,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使剑5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 7,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使头盔5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 7,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使胸甲5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 7,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使护腿5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 7,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "新神圣天使靴子5",
+      "path": "plugins/MythicMobs/Items/新增/新天使装备.yml",
+      "slots": 7,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·训练营之剑1",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·训练营之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·训练营头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·训练营胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·训练营护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·训练营靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·前线战场之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·前线战场头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·前线战场胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·前线战场护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·前线战场靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 1,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·魔族堡垒之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·魔族堡垒头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·魔族堡垒胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·魔族堡垒护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·魔族堡垒靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·堕落祭坛之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·堕落祭坛头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·堕落祭坛胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·堕落祭坛护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·堕落祭坛靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 2,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·遗忘都城之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·遗忘都城头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·遗忘都城胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·遗忘都城护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·遗忘都城靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·死亡峡谷之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·死亡峡谷头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·死亡峡谷胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·死亡峡谷护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·死亡峡谷靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 3,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·莫洛斯托超频靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 4,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·天族净化超频之剑",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 6,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·天族净化超频头盔",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·天族净化超频胸甲",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·天族净化超频护腿",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    },
+    {
+      "id": "魔能·天族净化超频靴子",
+      "path": "plugins/MythicMobs/Items/魔能系列/魔能装备.yml",
+      "slots": 5,
+      "pass": true,
+      "allInlays": true,
+      "middleTake": true,
+      "middleReinsert": true,
+      "emptyLoreRestored": true,
+      "otherLoreUnchanged": true
+    }
+  ],
+  "redaction": "省略随机隐藏标记的展示行；未公开原始 NBT 或玩家物品。"
+}

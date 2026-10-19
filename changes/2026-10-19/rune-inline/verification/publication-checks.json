@@ -1,0 +1,8 @@
+{
+  "patchCount": 7,
+  "patchApplyCheckPassed": true,
+  "patchAppliedTextMatchesDeployed": true,
+  "deployedFileHashesMatchReadyFiles": 8,
+  "backupOriginalSHA256": "074A3DE2FC9D76CDC86FB75A9C50B98916868E187CAF8C09184DE7C6731CC606",
+  "note": "发布前重新核对本地留存的部署文件与清单；本次发布不重新连接服务器或重做游戏测试。"
+}
