@@ -1,0 +1,37 @@
+{
+  "name": "云间神四",
+  "tag": "client-2026.10.19",
+  "status": "基础适配版",
+  "archive": "云间神四.zip",
+  "bytes": 248865373,
+  "sha256": "f6eb7ed291927c764ca834edd2ba65c9e74c811dfd314156b67ecd8a45fb9208",
+  "releasePage": "https://github.com/xingyu040712-ux/shensi/releases/tag/client-2026.10.19",
+  "downloadUrl": "https://github.com/xingyu040712-ux/shensi/releases/download/client-2026.10.19/yunjianshensi.zip",
+  "gameVersion": "1.12.2",
+  "forgeVersion": "14.23.5.2847",
+  "launcherVersion": "2.13.1.1",
+  "javaRecommendation": "Windows x64 Java 8",
+  "server": "t7.sjcmc.cn:35237",
+  "launcherMusicRemoved": true,
+  "archiveFiles": 12045,
+  "archiveFilesSHA256Verified": 12045,
+  "preservedDragonCoreResources": 10116,
+  "startupRenderLoopVerified": true,
+  "actualServerLoginVerified": false,
+  "missingLiteralTextureReferences": [
+    "GUI/时装衣橱贴图/小框未选.png",
+    "amethyst_flail.png",
+    "icon/NPC头衔/每日任务.png",
+    "全定制模型/单核四线程/med肥鱼.png",
+    "全定制模型/小小伊蕾娜/default.png",
+    "全定制模型/我的刀盾/111.png",
+    "全定制模型/捣蛋猫/default.png"
+  ],
+  "thirdPartyWarnings": [
+    "WWE optional Discord IPC / external website TLS errors",
+    "DragonArmourers model loading exception; startup continued"
+  ],
+  "privateDataIncluded": false,
+  "releaseAssetName": "yunjianshensi.zip",
+  "originalArchiveName": "云间神四.zip"
+}
