@@ -1,0 +1,12 @@
+{
+  "npc_id": "floor_tp_1",
+  "npc_uuid": "8b143884-cc13-4cd1-bce1-c2765cd8c111",
+  "npc_name": "一层传送npc",
+  "location": {"world": "world", "x": -14.056, "y": 33.0, "z": -62.047, "yaw": 0.0, "pitch": 0.0},
+  "menu_file": "floor_tp_1.yml",
+  "trigger_file": "floor_tp_1.yml",
+  "menu_title": "&9第一层副本 · 普通线路",
+  "routes": [
+    {"name": "&e第一层 · 普通一线", "world": "F1", "description": "&7幻界军营 · 点击传送"}
+  ]
+}

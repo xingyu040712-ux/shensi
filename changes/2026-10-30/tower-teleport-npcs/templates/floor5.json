@@ -1,0 +1,37 @@
+{
+  "npc_id": "floor_tp_5",
+  "npc_name": "五层传送npc",
+  "location": {
+    "world": "world",
+    "x": -13.741,
+    "y": 99.0,
+    "z": -62.577,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "menu_file": "floor_tp_5.yml",
+  "trigger_file": "floor_tp_5.yml",
+  "menu_title": "&9第五层副本 · 普通线路",
+  "routes": [
+    {
+      "name": "&e第五层 · 普通一线",
+      "world": "F5",
+      "description": "&7点击传送第五层普通一线"
+    },
+    {
+      "name": "&e第五层 · 普通二线",
+      "world": "F52x",
+      "description": "&7点击传送第五层普通二线"
+    },
+    {
+      "name": "&e第五层 · 普通三线",
+      "world": "F53x",
+      "description": "&7点击传送第五层普通三线"
+    },
+    {
+      "name": "&e第五层 · 普通四线",
+      "world": "F54x",
+      "description": "&7点击传送第五层普通四线"
+    }
+  ]
+}

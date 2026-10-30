@@ -1,0 +1,444 @@
+--- a/plugins/GuoItemLoreCommand/ClickTrigger.yml
++++ b/plugins/GuoItemLoreCommand/ClickTrigger.yml
+@@ -1172,78 +1172,83 @@
+ VIP1天:
+   检测描述: '&a获得1天VIP时限'
+   点击类型: 右键
+-  玩家指令:
+-  - '[op]:vipsys give %player% vip4 1d'
+-  物品模块:
+-    需求堆叠数量: 1
+-    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
+-    是否消耗物品: true
+-  冷却模块:
+-    是否启用该模块: true
+-    冷却组: 'VIP'
++  玩家指令: []
++  物品模块:
++    需求堆叠数量: 1
++    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
++    是否消耗物品: true
++  冷却模块:
++    是否启用该模块: true
++    冷却组: VIP
+     冷却时间: 1000
+     是否提醒冷却中: true
+     冷却中提醒信息: '&b冷却还没有结束，请等待%less%'
++  后台指令:
++  - vipsys give %player% vip4 1d
+ VIP3天:
+   检测描述: '&a获得3天VIP时限'
+   点击类型: 右键
+-  玩家指令:
+-  - '[op]:vipsys give %player% vip4 3d'
+-  物品模块:
+-    需求堆叠数量: 1
+-    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
+-    是否消耗物品: true
+-  冷却模块:
+-    是否启用该模块: true
+-    冷却组: 'VIP'
++  玩家指令: []
++  物品模块:
++    需求堆叠数量: 1
++    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
++    是否消耗物品: true
++  冷却模块:
++    是否启用该模块: true
++    冷却组: VIP
+     冷却时间: 1000
+     是否提醒冷却中: true
+     冷却中提醒信息: '&b冷却还没有结束，请等待%less%'
++  后台指令:
++  - vipsys give %player% vip4 3d
+ VIP7天:
+   检测描述: '&a获得7天VIP时限'
+   点击类型: 右键
+-  玩家指令:
+-  - '[op]:vipsys give %player% vip4 7d'
+-  物品模块:
+-    需求堆叠数量: 1
+-    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
+-    是否消耗物品: true
+-  冷却模块:
+-    是否启用该模块: true
+-    冷却组: 'VIP'
++  玩家指令: []
++  物品模块:
++    需求堆叠数量: 1
++    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
++    是否消耗物品: true
++  冷却模块:
++    是否启用该模块: true
++    冷却组: VIP
+     冷却时间: 1000
+     是否提醒冷却中: true
+     冷却中提醒信息: '&b冷却还没有结束，请等待%less%'
++  后台指令:
++  - vipsys give %player% vip4 7d
+ VIP15天:
+   检测描述: '&a获得15天VIP时限'
+   点击类型: 右键
+-  玩家指令:
+-  - '[op]:vipsys give %player% vip4 15d'
+-  物品模块:
+-    需求堆叠数量: 1
+-    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
+-    是否消耗物品: true
+-  冷却模块:
+-    是否启用该模块: true
+-    冷却组: 'VIP'
++  玩家指令: []
++  物品模块:
++    需求堆叠数量: 1
++    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
++    是否消耗物品: true
++  冷却模块:
++    是否启用该模块: true
++    冷却组: VIP
+     冷却时间: 1000
+     是否提醒冷却中: true
+     冷却中提醒信息: '&b冷却还没有结束，请等待%less%'
++  后台指令:
++  - vipsys give %player% vip4 15d
+ VIP30天:
+   检测描述: '&a获得30天VIP时限'
+   点击类型: 右键
+-  玩家指令:
+-  - '[op]:vipsys give %player% vip4 30d'
+-  物品模块:
+-    需求堆叠数量: 1
+-    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
+-    是否消耗物品: true
+-  冷却模块:
+-    是否启用该模块: true
+-    冷却组: 'VIP'
++  玩家指令: []
++  物品模块:
++    需求堆叠数量: 1
++    需求不足提示: '&c需要同时持有&e1&c个此物品时才能使用'
++    是否消耗物品: true
++  冷却模块:
++    是否启用该模块: true
++    冷却组: VIP
+     冷却时间: 1000
+     是否提醒冷却中: true
+     冷却中提醒信息: '&b冷却还没有结束，请等待%less%'
++  后台指令:
++  - vipsys give %player% vip4 30d
+ 传承之书-小:
+   检测描述: '§9本书可获得10000经验'
+   点击类型: 右键
+--- a/plugins/LyItemLoreCommand/extra/神四制作指令物品.yml
++++ b/plugins/LyItemLoreCommand/extra/神四制作指令物品.yml
+@@ -374,91 +374,6 @@
+     - '[console]points give %p 1000'
+     cd: '0.1'
+     cd-team: 点券
+-    cd-message: '&b冷却还没有结束，请等待%times'
+-  神四制作_VIP1天:
+-    plugin-slot:
+-    - Origin#MainHand
+-    name: ''
+-    lore:
+-    - §7右键使用：VIP1天
+-    chance: 1
+-    take: true
+-    take-all: false
+-    fail-take: false
+-    event:
+-    - right
+-    commands:
+-    - '[console]vipsys give %p vip4 1d'
+-    cd: '1'
+-    cd-team: VIP
+-    cd-message: '&b冷却还没有结束，请等待%times'
+-  神四制作_VIP3天:
+-    plugin-slot:
+-    - Origin#MainHand
+-    name: ''
+-    lore:
+-    - §7右键使用：VIP3天
+-    chance: 1
+-    take: true
+-    take-all: false
+-    fail-take: false
+-    event:
+-    - right
+-    commands:
+-    - '[console]vipsys give %p vip4 3d'
+-    cd: '1'
+-    cd-team: VIP
+-    cd-message: '&b冷却还没有结束，请等待%times'
+-  神四制作_VIP7天:
+-    plugin-slot:
+-    - Origin#MainHand
+-    name: ''
+-    lore:
+-    - §7右键使用：VIP7天
+-    chance: 1
+-    take: true
+-    take-all: false
+-    fail-take: false
+-    event:
+-    - right
+-    commands:
+-    - '[console]vipsys give %p vip4 7d'
+-    cd: '1'
+-    cd-team: VIP
+-    cd-message: '&b冷却还没有结束，请等待%times'
+-  神四制作_VIP15天:
+-    plugin-slot:
+-    - Origin#MainHand
+-    name: ''
+-    lore:
+-    - §7右键使用：VIP15天
+-    chance: 1
+-    take: true
+-    take-all: false
+-    fail-take: false
+-    event:
+-    - right
+-    commands:
+-    - '[console]vipsys give %p vip4 15d'
+-    cd: '1'
+-    cd-team: VIP
+-    cd-message: '&b冷却还没有结束，请等待%times'
+-  神四制作_VIP30天:
+-    plugin-slot:
+-    - Origin#MainHand
+-    name: ''
+-    lore:
+-    - §7右键使用：VIP30天
+-    chance: 1
+-    take: true
+-    take-all: false
+-    fail-take: false
+-    event:
+-    - right
+-    commands:
+-    - '[console]vipsys give %p vip4 30d'
+-    cd: '1'
+-    cd-team: VIP
+     cd-message: '&b冷却还没有结束，请等待%times'
+   神四制作_传承之书-小:
+     plugin-slot:
+--- a/plugins/MythicMobs/Items/道具/点券and会员.yml
++++ b/plugins/MythicMobs/Items/道具/点券and会员.yml
+@@ -1,128 +1,73 @@
+ VIP30天:
+   Id: PAPER
+-  Display: '§eVIP30天'
++  Display: §eVIP30天
+   Lore:
+-  - §7[§6VIP时限书§7]                                              §7[§d右键使用§7]
++  - §7[§6VIP时限书§7] §7[§d右键使用§7]
+   - §a获得30天VIP时限
+   - §a使用后消耗掉
+-  - '§e功能如下:'
+-  - §e1.打怪经验获得额外100%
+-  - §e2.双持任何武器
+-  - §e3.直传副本地图
+-  - §e4.随身54格超大背包
+-  - §e5.全球商店上架物品可10件,税收1%
+-  - §e6.可在地皮生存资源世界任意飞行
+-  - §e7.可随意更改称号
+-  - §e8.每日礼包[含药水,金币,强化石]领取
+-  - §c9.注意！VIP每天重置机制是0:00时重置
+-  - §c10.如果23:55使用那么只能持续5分钟
+-  - §c11.建议0:10分后用
+-  - §c12.使用vip时请全部放在快捷栏内使用
+-  - §c13.使用vip时请全部叠放在一起使用
+-  - §c14.如果非要分开使用,请从右到左§a使用
+-  - §c15.除以上使用方式均有可能造成vip额外消耗
+-  - §4§l任何情况都禁止快速连点使用道具,否则后果自负
+-  - §7右键使用：VIP30天
++  - §e开通神四钻石冒险者会员
++  - §7权益沿用神四当前会员配置
++  - §b每一天按24小时计时，月卡为30天
++  - §b未到期重复使用可累加剩余时长
++  - §7离线继续计时，登录后检查到期
++  - §7到期回收VIP组，保留其他权限组
++  - §7使用 /vipsys me 查询会员剩余时间
+ VIP15天:
+   Id: PAPER
+-  Display: '§eVIP15天'
++  Display: §eVIP15天
+   Lore:
+-  - §7[§6VIP时限书§7]                                              §7[§d右键使用§7]
++  - §7[§6VIP时限书§7] §7[§d右键使用§7]
+   - §a获得15天VIP时限
+   - §a使用后消耗掉
+-  - '§e功能如下:'
+-  - §e1.打怪经验获得额外100%
+-  - §e2.双持任何武器
+-  - §e3.直传副本地图
+-  - §e4.随身54格超大背包
+-  - §e5.全球商店上架物品可10件,税收1%
+-  - §e6.可在地皮生存资源世界任意飞行
+-  - §e7.可随意更改称号
+-  - §e8.每日礼包[含药水,金币,强化石]领取
+-  - §c9.注意！VIP每天重置机制是0:00时重置
+-  - §c10.如果23:55使用那么只能持续5分钟
+-  - §c11.建议0:10分后用
+-  - §c12.使用vip时请全部放在快捷栏内使用
+-  - §c13.使用vip时请全部叠放在一起使用
+-  - §c14.如果非要分开使用,请从右到左§a使用
+-  - §c15.除以上使用方式均有可能造成vip额外消耗
+-  - §4§l任何情况都禁止快速连点使用道具,否则后果自负
+-  - §7右键使用：VIP15天
++  - §e开通神四钻石冒险者会员
++  - §7权益沿用神四当前会员配置
++  - §b每一天按24小时计时，月卡为30天
++  - §b未到期重复使用可累加剩余时长
++  - §7离线继续计时，登录后检查到期
++  - §7到期回收VIP组，保留其他权限组
++  - §7使用 /vipsys me 查询会员剩余时间
+ VIP7天:
+   Id: PAPER
+-  Display: '§eVIP7天'
++  Display: §eVIP7天
+   Lore:
+-  - §7[§6VIP时限书§7]                                              §7[§d右键使用§7]
++  - §7[§6VIP时限书§7] §7[§d右键使用§7]
+   - §a获得7天VIP时限
+   - §a使用后消耗掉
+-  - '§e功能如下:'
+-  - §e1.打怪经验获得额外100%
+-  - §e2.双持任何武器
+-  - §e3.直传副本地图
+-  - §e4.随身54格超大背包
+-  - §e5.全球商店上架物品可10件,税收1%
+-  - §e6.可在地皮生存资源世界任意飞行
+-  - §e7.可随意更改称号
+-  - §e8.每日礼包[含药水,金币,强化石]领取
+-  - §c9.注意！VIP每天重置机制是0:00时重置
+-  - §c10.如果23:55使用那么只能持续5分钟
+-  - §c11.建议0:10分后用
+-  - §c12.使用vip时请全部放在快捷栏内使用
+-  - §c13.使用vip时请全部叠放在一起使用
+-  - §c14.如果非要分开使用,请从右到左§a使用
+-  - §c15.除以上使用方式均有可能造成vip额外消耗
+-  - §4§l任何情况都禁止快速连点使用道具,否则后果自负
+-  - §7右键使用：VIP7天
++  - §e开通神四钻石冒险者会员
++  - §7权益沿用神四当前会员配置
++  - §b每一天按24小时计时，月卡为30天
++  - §b未到期重复使用可累加剩余时长
++  - §7离线继续计时，登录后检查到期
++  - §7到期回收VIP组，保留其他权限组
++  - §7使用 /vipsys me 查询会员剩余时间
+ VIP3天:
+   Id: PAPER
+-  Display: '§eVIP3天'
++  Display: §eVIP3天
+   Lore:
+-  - §7[§6VIP时限书§7]                                              §7[§d右键使用§7]
++  - §7[§6VIP时限书§7] §7[§d右键使用§7]
+   - §a获得3天VIP时限
+   - §a使用后消耗掉
+-  - '§e功能如下:'
+-  - §e1.打怪经验获得额外100%
+-  - §e2.双持任何武器
+-  - §e3.直传副本地图
+-  - §e4.随身54格超大背包
+-  - §e5.全球商店上架物品可10件,税收1%
+-  - §e6.可在地皮生存资源世界任意飞行
+-  - §e7.可随意更改称号
+-  - §e8.每日礼包[含药水,金币,强化石]领取
+-  - §c9.注意！VIP每天重置机制是0:00时重置
+-  - §c10.如果23:55使用那么只能持续5分钟
+-  - §c11.建议0:10分后用
+-  - §c12.使用vip时请全部放在快捷栏内使用
+-  - §c13.使用vip时请全部叠放在一起使用
+-  - §c14.如果非要分开使用,请从右到左§a使用
+-  - §c15.除以上使用方式均有可能造成vip额外消耗
+-  - §4§l任何情况都禁止快速连点使用道具,否则后果自负
+-  - §7右键使用：VIP3天
++  - §e开通神四钻石冒险者会员
++  - §7权益沿用神四当前会员配置
++  - §b每一天按24小时计时，月卡为30天
++  - §b未到期重复使用可累加剩余时长
++  - §7离线继续计时，登录后检查到期
++  - §7到期回收VIP组，保留其他权限组
++  - §7使用 /vipsys me 查询会员剩余时间
+ VIP1天:
+   Id: PAPER
+-  Display: '§eVIP1天'
++  Display: §eVIP1天
+   Lore:
+-  - §7[§6VIP时限书§7]                                              §7[§d右键使用§7]
++  - §7[§6VIP时限书§7] §7[§d右键使用§7]
+   - §a获得1天VIP时限
+   - §a使用后消耗掉
+-  - '§e功能如下:'
+-  - §e1.打怪经验获得额外100%
+-  - §e2.双持任何武器
+-  - §e3.直传副本地图
+-  - §e4.随身54格超大背包
+-  - §e5.全球商店上架物品可10件,税收1%
+-  - §e6.可在地皮生存资源世界任意飞行
+-  - §e7.可随意更改称号
+-  - §e8.每日礼包[含药水,金币,强化石]领取
+-  - §c9.注意！VIP每天重置机制是0:00时重置
+-  - §c10.如果23:55使用那么只能持续5分钟
+-  - §c11.建议0:10分后用
+-  - §c12.使用vip时请全部放在快捷栏内使用
+-  - §c13.使用vip时请全部叠放在一起使用
+-  - §c14.如果非要分开使用,请从右到左§a使用
+-  - §c15.除以上使用方式均有可能造成vip额外消耗
+-  - §4§l任何情况都禁止快速连点使用道具,否则后果自负
+-  - §7右键使用：VIP1天
++  - §e开通神四钻石冒险者会员
++  - §7权益沿用神四当前会员配置
++  - §b每一天按24小时计时，月卡为30天
++  - §b未到期重复使用可累加剩余时长
++  - §7离线继续计时，登录后检查到期
++  - §7到期回收VIP组，保留其他权限组
++  - §7使用 /vipsys me 查询会员剩余时间
+ 1000点券:
+   Id: 339
+   Display: '§e1000§b点券'
+--- a/plugins/VipSystem/config.yml
++++ b/plugins/VipSystem/config.yml
+@@ -28,7 +28,7 @@
+ #defaultGroup: builder
+ #if you want to customize default group, delete '#' at the beginning of previous line
+ #如果你想自定义默认组，你可以删除上方defaultGroup前的'#'
+-previousGroup: true
++previousGroup: false
+ #whether return to the previous group before activating vip after the vip expires
+ #是否在VIP过期后返回开通VIP前的组
+ dataBase:
+@@ -89,22 +89,22 @@
+ customCommands:
+   vip4:
+     activate:
+-    - 'tellraw @a {"text": "§b[云间艾尔] §a玩家 §e{0} §a开通了 §9钻石冒险者"}'
++    - 'tellraw @a {"text": "§b[云间神四] §a玩家 §e{0} §a开通了 §9钻石冒险者"}'
+     expire:
+-    - 'tellraw {0} {"text": "§b[云间艾尔] §c您的 钻石冒险者 已到期。"}'
++    - 'tellraw {0} {"text": "§b[云间神四] §c您的 钻石冒险者 已到期。"}'
+   vip3:
+     activate:
+-    - 'tellraw @a {"text": "§b[云间艾尔] §a玩家 §e{0} §a开通了 §9黄金冒险者"}'
++    - 'tellraw @a {"text": "§b[云间神四] §a玩家 §e{0} §a开通了 §9黄金冒险者"}'
+     expire:
+-    - 'tellraw {0} {"text": "§b[云间艾尔] §c您的 黄金冒险者 已到期。"}'
++    - 'tellraw {0} {"text": "§b[云间神四] §c您的 黄金冒险者 已到期。"}'
+   vip2:
+     activate:
+-    - 'tellraw @a {"text": "§b[云间艾尔] §a玩家 §e{0} §a开通了 §9白银冒险者"}'
++    - 'tellraw @a {"text": "§b[云间神四] §a玩家 §e{0} §a开通了 §9白银冒险者"}'
+     expire:
+-    - 'tellraw {0} {"text": "§b[云间艾尔] §c您的 白银冒险者 已到期。"}'
++    - 'tellraw {0} {"text": "§b[云间神四] §c您的 白银冒险者 已到期。"}'
+   vip1:
+     activate:
+-    - 'tellraw @a {"text": "§b[云间艾尔] §a玩家 §e{0} §a开通了 §9青铜冒险者"}'
++    - 'tellraw @a {"text": "§b[云间神四] §a玩家 §e{0} §a开通了 §9青铜冒险者"}'
+     expire:
+-    - 'tellraw {0} {"text": "§b[云间艾尔] §c您的 青铜冒险者 已到期。"}'
++    - 'tellraw {0} {"text": "§b[云间神四] §c您的 青铜冒险者 已到期。"}'
+ #如果你安装了PlaceholderAPI，命令中可以使用其变量
+\ No newline at end of file

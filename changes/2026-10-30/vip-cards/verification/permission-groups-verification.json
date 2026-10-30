@@ -1,0 +1,9 @@
+{
+  "groupsBefore": 6,
+  "groupsAfter": 6,
+  "allExistingGroupsUnchanged": true,
+  "testUserExtraNodeCount": 0,
+  "testUserRemainingNodes": [
+    "group.default"
+  ]
+}

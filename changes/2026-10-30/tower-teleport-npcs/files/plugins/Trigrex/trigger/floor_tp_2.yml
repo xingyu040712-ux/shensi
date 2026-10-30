@@ -1,0 +1,5 @@
+floor_tp_2:
+  type: ady
+  npc: "floor_tp_2"
+  action:
+    - "执行指令('cc open floor_tp_2.yml %player_name%')"

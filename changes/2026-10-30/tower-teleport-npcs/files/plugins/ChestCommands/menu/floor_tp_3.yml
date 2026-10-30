@@ -1,0 +1,23 @@
+menu-settings:
+  name: "&9第三层副本 · 普通线路"
+  rows: 1
+
+route_1:
+  NAME: "&e第三层 · 普通一线"
+  LORE:
+    - "&7点击传送第三层普通一线"
+  ID: 276
+  ENCHANTMENT: 'SMITE,1'
+  COMMAND: "op:mv tp F3"
+  POSITION-X: 1
+  POSITION-Y: 1
+
+route_2:
+  NAME: "&e第三层 · 普通二线"
+  LORE:
+    - "&7点击传送第三层普通二线"
+  ID: 276
+  ENCHANTMENT: 'SMITE,1'
+  COMMAND: "op:mv tp F32x"
+  POSITION-X: 2
+  POSITION-Y: 1

@@ -1,0 +1,13 @@
+menu-settings:
+  name: "&9第一层副本 · 普通线路"
+  rows: 1
+
+route_1:
+  NAME: "&e第一层 · 普通一线"
+  LORE:
+    - "&7幻界军营 · 点击传送"
+  ID: 276
+  ENCHANTMENT: 'SMITE,1'
+  COMMAND: "op:mv tp F1"
+  POSITION-X: 1
+  POSITION-Y: 1

@@ -1,0 +1,58 @@
+{
+  "gameProfile": {
+    "name": "§a矿物及原初兑换",
+    "ping": 60,
+    "texture": [
+      ""
+    ],
+    "textureName": "",
+    "spectator": false,
+    "listed": false
+  },
+  "isSleepingLegacy": false,
+  "isHideFromTabList": true,
+  "equipment": {},
+  "isDie": false,
+  "isNitwit": false,
+  "moveSpeed": 0.2,
+  "isNameTagVisible": true,
+  "isCollision": true,
+  "glowingColor": "WHITE",
+  "visibleDistance": -1.0,
+  "visibleAfterLoaded": true,
+  "modelEngineName": "",
+  "passengers": [],
+  "controller": [],
+  "clientPosition": {
+    "world": "zc",
+    "x": 89.93362522175258,
+    "y": 40.0,
+    "z": -4.550632000147212,
+    "yaw": 94.67859,
+    "pitch": 19.230556
+  },
+  "entityType": "PLAYER",
+  "persistentTag": {},
+  "metadata": {},
+  "metadataMask": {
+    "$f952a200": {
+      "skinHat": true,
+      "skinJacket": true,
+      "skinRightSleeve": true,
+      "skinLeftPants": true,
+      "skinRightPants": true,
+      "skinCape": true,
+      "skinLeftSleeve": true
+    }
+  },
+  "id": "矿物原初兑换",
+  "uniqueId": "015f4227-3e6d-416b-a9fd-2fdb4293d1d8",
+  "position": {
+    "world": "zc",
+    "x": 89.93362522175258,
+    "y": 40.0,
+    "z": -4.550632000147212,
+    "yaw": 94.67859,
+    "pitch": 19.230556
+  }
+}

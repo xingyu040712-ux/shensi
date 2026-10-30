@@ -1,0 +1,27 @@
+{
+  "npc_id": "floor_tp_4",
+  "npc_name": "四层传送npc",
+  "location": {
+    "world": "world",
+    "x": -19.447,
+    "y": 86.0,
+    "z": -67.787,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "menu_file": "floor_tp_4.yml",
+  "trigger_file": "floor_tp_4.yml",
+  "menu_title": "&9第四层副本 · 普通线路",
+  "routes": [
+    {
+      "name": "&e第四层 · 普通一线",
+      "world": "F4",
+      "description": "&7点击传送第四层普通一线"
+    },
+    {
+      "name": "&e第四层 · 普通二线",
+      "world": "F42x",
+      "description": "&7点击传送第四层普通二线"
+    }
+  ]
+}

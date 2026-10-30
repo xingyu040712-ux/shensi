@@ -1,0 +1,119 @@
+层数,所属技能或怪物,伤害路径,数值参数,忽略护甲,文件,行号,调用路径,原配置
+6,死亡骸骨,直接扣血,500,true,plugins/MythicMobs/Mobs/6第六层怪物.yml,229,死亡骸骨,damage{a=500;ia=true} @PIR{r=5} ~onTimer:20
+6,恐惧惊骇天命之理,直接扣血,15000,true,plugins/MythicMobs/Skills/第六层技能.yml,16,恐惧惊骇 -> 恐惧惊骇天命之理,damage{a=15000;ia=true}@PlayersInRadius{r=30}
+6,巫妖恩佩斯天命之理,直接扣血,18000,true,plugins/MythicMobs/Skills/第六层技能.yml,33,巫妖恩佩斯 -> 巫妖恩佩斯天命之理,damage{a=18000;ia=true}@PlayersInRadius{r=30}
+6,恐惧惊骇爆发冲击-命中,普通伤害,1,false,plugins/MythicMobs/Skills/第六层技能.yml,63,恐惧惊骇 -> 恐惧惊骇爆发冲击 -> 恐惧惊骇爆发冲击-命中,damage{a=1}
+6,恐惧惊骇爆发冲击-命中,直接扣血,4000,true,plugins/MythicMobs/Skills/第六层技能.yml,64,恐惧惊骇 -> 恐惧惊骇爆发冲击 -> 恐惧惊骇爆发冲击-命中,damage{a=4000;ia=true}
+6,恐惧惊骇AOE,直接扣血,800,true,plugins/MythicMobs/Skills/第六层技能.yml,103,恐惧惊骇 -> 恐惧惊骇AOE,damage{amount=800;ignoreArmor=true}
+6,巫妖恩佩斯AOE,直接扣血,1000,true,plugins/MythicMobs/Skills/第六层技能.yml,107,巫妖恩佩斯 -> 巫妖恩佩斯AOE,damage{amount=1000;ignoreArmor=true}
+6,恐惧惊骇弹幕技能击中,普通伤害,800,false,plugins/MythicMobs/Skills/第六层技能.yml,120,恐惧惊骇弹幕 -> 恐惧惊骇弹幕技能 -> 恐惧惊骇弹幕技能击中,damage{a=800;ignoreArmor=false} @PlayersNearOrigin{r=10}
+6,巫妖恩佩斯弹幕技能击中,普通伤害,1000,false,plugins/MythicMobs/Skills/第六层技能.yml,135,巫妖恩佩斯弹幕 -> 巫妖恩佩斯弹幕技能 -> 巫妖恩佩斯弹幕技能击中,damage{a=1000;ignoreArmor=false} @PlayersNearOrigin{r=10}
+7,兵长天命之理,直接扣血,35000,true,plugins/MythicMobs/Skills/第七层技能.yml,107,神域兵长布鲁克 -> 兵长天命之理,damage{amount=35000;ignoreArmor=true} @PlayersInRadius{r=24}
+7,兵长天命之理,普通伤害,0.20,false,plugins/MythicMobs/Skills/第七层技能.yml,108,神域兵长布鲁克 -> 兵长天命之理,Damagepercent{percent=0.20} @PlayersInRadius{r=24}
+7,骑士天命之理,直接扣血,45000,true,plugins/MythicMobs/Skills/第七层技能.yml,128,神域骑士克劳德 -> 骑士天命之理,damage{amount=45000;ignoreArmor=true} @PlayersInRadius{r=24}
+7,骑士天命之理,普通伤害,0.25,false,plugins/MythicMobs/Skills/第七层技能.yml,129,神域骑士克劳德 -> 骑士天命之理,Damagepercent{percent=0.25} @PlayersInRadius{r=24}
+7,将领天命之理,直接扣血,70000,true,plugins/MythicMobs/Skills/第七层技能.yml,149,神域将领杰佛理 -> 将领天命之理,damage{amount=70000;ignoreArmor=true} @PlayersInRadius{r=24}
+7,将领天命之理,普通伤害,0.30,false,plugins/MythicMobs/Skills/第七层技能.yml,150,神域将领杰佛理 -> 将领天命之理,Damagepercent{percent=0.30} @PlayersInRadius{r=24}
+7,兵长之灵_命中,普通伤害,0.05,false,plugins/MythicMobs/Skills/第七层技能.yml,163,兵长之灵 -> 兵长之灵 -> 兵长之灵_命中,Damagepercent{percent=0.05;pk=true}
+7,神域卫兵远攻,直接扣血,3000,true,plugins/MythicMobs/Skills/第七层技能.yml,173,神域卫兵 -> 神域卫兵远攻,damage{amount=3000;ignoreArmor=true;pk=true}
+7,神域AOE,普通伤害,0.01,false,plugins/MythicMobs/Skills/第七层技能.yml,177,神域卫兵 -> 神域AOE,Damagepercent{percent=0.01;pk=true}
+7,神域弓箭手远攻,直接扣血,2000,true,plugins/MythicMobs/Skills/第七层技能.yml,187,神域弓箭手 -> 神域弓箭手远攻,damage{amount=2000;ignoreArmor=true;pk=true}
+7,神域守卫远攻,直接扣血,5000,true,plugins/MythicMobs/Skills/第七层技能.yml,197,神域守卫 -> 神域守卫远攻,damage{amount=5000;ignoreArmor=true;pk=true}
+7,神域兵长布鲁克冲锋Hit,直接扣血,10000,true,plugins/MythicMobs/Skills/第七层技能.yml,236,神域兵长布鲁克 -> 神域兵长布鲁克冲锋 -> 神域兵长布鲁克冲锋Hit,damage{amount=10000;ignoreArmor=true}
+7,神域兵长布鲁克冲锋Hit,普通伤害,0.3,false,plugins/MythicMobs/Skills/第七层技能.yml,237,神域兵长布鲁克 -> 神域兵长布鲁克冲锋 -> 神域兵长布鲁克冲锋Hit,Damagepercent{percent=0.3}
+7,神域兵长闪现斩击2Hit,直接扣血,10000,true,plugins/MythicMobs/Skills/第七层技能.yml,271,神域兵长布鲁克 -> 神域兵长闪现斩击 -> 神域兵长闪现斩击2Hit,damage{amount=10000;ignoreArmor=true}
+7,神域兵长闪现斩击2Hit,普通伤害,0.05,false,plugins/MythicMobs/Skills/第七层技能.yml,272,神域兵长布鲁克 -> 神域兵长闪现斩击 -> 神域兵长闪现斩击2Hit,Damagepercent{percent=0.05}
+7,神域兵长闪现斩击End,直接扣血,15000,true,plugins/MythicMobs/Skills/第七层技能.yml,277,神域兵长布鲁克 -> 神域兵长闪现斩击 -> 神域兵长闪现斩击End,damage{amount=15000;ignoreArmor=true} @PlayersInRadius{r=10}
+7,神域兵长闪现斩击End,普通伤害,0.05,false,plugins/MythicMobs/Skills/第七层技能.yml,278,神域兵长布鲁克 -> 神域兵长闪现斩击 -> 神域兵长闪现斩击End,Damagepercent{percent=0.05} @PlayersInRadius{r=10}
+7,神域骑士闪现斩击2Hit,直接扣血,20000,true,plugins/MythicMobs/Skills/第七层技能.yml,351,神域骑士克劳德 -> 神域骑士闪现斩击 -> 神域骑士闪现斩击2Hit,damage{amount=20000;ignoreArmor=true}
+7,神域骑士闪现斩击2Hit,普通伤害,0.10,false,plugins/MythicMobs/Skills/第七层技能.yml,352,神域骑士克劳德 -> 神域骑士闪现斩击 -> 神域骑士闪现斩击2Hit,Damagepercent{percent=0.10}
+7,神域骑士闪现斩击End,直接扣血,30000,true,plugins/MythicMobs/Skills/第七层技能.yml,357,神域骑士克劳德 -> 神域骑士闪现斩击 -> 神域骑士闪现斩击End,damage{amount=30000;ignoreArmor=true} @PlayersInRadius{r=10}
+7,神域骑士闪现斩击End,普通伤害,0.10,false,plugins/MythicMobs/Skills/第七层技能.yml,358,神域骑士克劳德 -> 神域骑士闪现斩击 -> 神域骑士闪现斩击End,Damagepercent{percent=0.10} @PlayersInRadius{r=10}
+7,骑士破魔斩End,直接扣血,30000,true,plugins/MythicMobs/Skills/第七层技能.yml,392,神域骑士克劳德 -> 骑士破魔斩 -> 骑士破魔斩End,damage{amount=30000;ignoreArmor=true} @PlayersInRadius{r=10}
+7,骑士破魔斩End,普通伤害,0.10,false,plugins/MythicMobs/Skills/第七层技能.yml,393,神域骑士克劳德 -> 骑士破魔斩 -> 骑士破魔斩End,Damagepercent{percent=0.10} @PlayersInRadius{r=10}
+7,神域骑士闪现脱离Hit,直接扣血,30000,true,plugins/MythicMobs/Skills/第七层技能.yml,414,神域骑士克劳德 -> 神域骑士闪现脱离 -> 神域骑士闪现脱离Hit,damage{amount=30000;ignoreArmor=true}
+7,神域骑士闪现脱离Hit,普通伤害,0.10,false,plugins/MythicMobs/Skills/第七层技能.yml,415,神域骑士克劳德 -> 神域骑士闪现脱离 -> 神域骑士闪现脱离Hit,Damagepercent{percent=0.10}
+7,神域骑士一闪End,直接扣血,20000,true,plugins/MythicMobs/Skills/第七层技能.yml,443,神域骑士克劳德 -> 神域骑士一闪 -> 神域骑士一闪End,damage{amount=20000;ignoreArmor=true} @PlayersInRadius{r=10}
+7,神域骑士一闪End,普通伤害,0.10,false,plugins/MythicMobs/Skills/第七层技能.yml,444,神域骑士克劳德 -> 神域骑士一闪 -> 神域骑士一闪End,Damagepercent{percent=0.10} @PlayersInRadius{r=10}
+7,骑士之灵_命中,普通伤害,0.05,false,plugins/MythicMobs/Skills/第七层技能.yml,457,骑士之灵 -> 骑士之灵 -> 骑士之灵_命中,Damagepercent{percent=0.05;pk=true}
+7,将领之灵_命中,普通伤害,0.05,false,plugins/MythicMobs/Skills/第七层技能.yml,474,将领之灵 -> 将领之灵 -> 将领之灵_命中,Damagepercent{percent=0.05;pk=true}
+7,鬼闪Hit,直接扣血,35000,true,plugins/MythicMobs/Skills/第七层技能.yml,500,神域将领杰佛理 -> 鬼闪 -> 鬼闪Hit,damage{amount=35000;ignoreArmor=true}
+7,鬼闪Hit,普通伤害,0.15,false,plugins/MythicMobs/Skills/第七层技能.yml,501,神域将领杰佛理 -> 鬼闪 -> 鬼闪Hit,Damagepercent{percent=0.15}
+7,次元斩击Hit,直接扣血,50000,true,plugins/MythicMobs/Skills/第七层技能.yml,524,神域将领杰佛理 -> 次元斩击 -> 次元斩击Hit,damage{amount=50000;ignoreArmor=true}
+7,次元斩击Hit,普通伤害,0.15,false,plugins/MythicMobs/Skills/第七层技能.yml,525,神域将领杰佛理 -> 次元斩击 -> 次元斩击Hit,Damagepercent{percent=0.15}
+7,突击次元斩Hit,直接扣血,50000,true,plugins/MythicMobs/Skills/第七层技能.yml,546,神域将领杰佛理 -> 突击次元斩 -> 突击次元斩Hit,damage{amount=50000;ignoreArmor=true}
+7,突击次元斩Hit,普通伤害,0.15,false,plugins/MythicMobs/Skills/第七层技能.yml,547,神域将领杰佛理 -> 突击次元斩 -> 突击次元斩Hit,Damagepercent{percent=0.15}
+7,次元闪击Hit,直接扣血,50000,true,plugins/MythicMobs/Skills/第七层技能.yml,568,神域将领杰佛理 -> 次元闪击 -> 次元闪击Hit,damage{amount=50000;ignoreArmor=true}
+7,次元闪击Hit,普通伤害,0.15,false,plugins/MythicMobs/Skills/第七层技能.yml,569,神域将领杰佛理 -> 次元闪击 -> 次元闪击Hit,Damagepercent{percent=0.15}
+7,兵长瞬间三连斩-击中,直接扣血,30000,true,plugins/MythicMobs/Skills/第七层技能.yml,658,神域兵长布鲁克 -> 兵长瞬间三连斩 -> 兵长瞬间三连斩-击中,damage{a=30000;ia=true}
+8,凰炎射出Hit,普通伤害,0.05,false,plugins/MythicMobs/Skills/第八层技能/凰炎.yml,124,路西法 -> 凰炎 -> 凰炎射出Hit,percentDamage{percent=0.05}
+8,凰炎射出Hit,直接扣血,500000,true,plugins/MythicMobs/Skills/第八层技能/凰炎.yml,125,路西法 -> 凰炎 -> 凰炎射出Hit,damage{amount=500000;ignoreArmor=true}
+8,神凰炎射出Hit,直接扣血,1500000,true,plugins/MythicMobs/Skills/第八层技能/凰炎.yml,372,路西法 -> 神凰炎 -> 神凰炎射出Hit,damage{amount=1500000;ignoreArmor=true}
+8,剑羽Hit,普通伤害,0.05,false,plugins/MythicMobs/Skills/第八层技能/剑羽.yml,22,路西法 -> 剑羽 -> 剑羽Hit,percentDamage{percent=0.05}
+8,剑羽Hit,直接扣血,750000,true,plugins/MythicMobs/Skills/第八层技能/剑羽.yml,23,路西法 -> 剑羽 -> 剑羽Hit,damage{amount=750000;ignoreArmor=true}
+8,神剑羽Hit,普通伤害,0.1,false,plugins/MythicMobs/Skills/第八层技能/剑羽.yml,54,路西法 -> 神剑羽 -> 神剑羽Hit,percentDamage{percent=0.1}
+8,神剑羽Hit,直接扣血,1250000,true,plugins/MythicMobs/Skills/第八层技能/剑羽.yml,55,路西法 -> 神剑羽 -> 神剑羽Hit,damage{amount=1250000;ignoreArmor=true}
+8,路西法神殿封锁,直接扣血,1000000,true,plugins/MythicMobs/Skills/第八层技能/神殿封锁.yml,4,路西法 -> 路西法神殿封锁,damage{amount=1000000;ignoreArmor=true}
+8,路西法神殿封锁警告,普通伤害,2,false,plugins/MythicMobs/Skills/第八层技能/神殿封锁.yml,11,路西法 -> 路西法神殿封锁警告,percentDamage{percent=2} @PlayersInRadius{r=50}
+8,路西法神殿大封锁警告,普通伤害,2,false,plugins/MythicMobs/Skills/第八层技能/神殿封锁.yml,21,大锁载体 -> 路西法神殿大封锁警告,percentDamage{percent=2} @PlayersInRadius{r=20}
+8,载体羽华冲击波Hit2,普通伤害,0.05,false,plugins/MythicMobs/Skills/第八层技能/羽华.yml,54,羽华载体 -> 载体羽华释放 -> 载体羽华冲击波Hit2,percentDamage{percent=0.05}
+8,载体羽华冲击波Hit2,直接扣血,1000000,true,plugins/MythicMobs/Skills/第八层技能/羽华.yml,55,羽华载体 -> 载体羽华释放 -> 载体羽华冲击波Hit2,damage{amount=1000000;ignoreArmor=true}
+8,折返羽华冲击波Hit,普通伤害,0.05,false,plugins/MythicMobs/Skills/第八层技能/羽华.yml,76,路西法 -> 折返羽华 -> 折返羽华冲击波Hit,percentDamage{percent=0.05}
+8,折返羽华冲击波Hit,直接扣血,1000000,true,plugins/MythicMobs/Skills/第八层技能/羽华.yml,77,路西法 -> 折返羽华 -> 折返羽华冲击波Hit,damage{amount=1000000;ignoreArmor=true}
+8,神羽华冲击波Hit2,普通伤害,0.15,false,plugins/MythicMobs/Skills/第八层技能/羽华.yml,107,路西法 -> 神羽华 -> 神羽华冲击波Hit2,percentDamage{percent=0.15}
+8,神羽华冲击波Hit2,直接扣血,1250000,true,plugins/MythicMobs/Skills/第八层技能/羽华.yml,108,路西法 -> 神羽华 -> 神羽华冲击波Hit2,damage{amount=1250000;ignoreArmor=true}
+8,神羽华折返冲击波Hit,普通伤害,0.15,false,plugins/MythicMobs/Skills/第八层技能/羽华.yml,116,神羽华分裂载体 -> 神羽华分裂 -> 神羽华折返冲击波Hit,percentDamage{percent=0.15}
+8,莽羽Hit,普通伤害,0.1,false,plugins/MythicMobs/Skills/第八层技能/莽羽.yml,29,瘟疫骑士 -> 莽羽 -> 莽羽Hit,percentDamage{percent=0.1}
+8,莽羽Hit,直接扣血,450000,true,plugins/MythicMobs/Skills/第八层技能/莽羽.yml,30,瘟疫骑士 -> 莽羽 -> 莽羽Hit,damage{amount=450000;ignoreArmor=true}
+8,路西法循环天命,直接扣血,2000000,true,plugins/MythicMobs/Skills/第八层技能/路西法天命.yml,45,路西法 -> 路西法循环天命,damage{amount=2000000;ignoreArmor=true} @PlayersInRadius{r=24}
+8,路西法群攻,直接扣血,30000,true,plugins/MythicMobs/Skills/第八层技能/路西法天命.yml,54,路西法 -> 路西法群攻,damage{amount=30000;ignoreArmor=true}
+8,路西法之灵技能击中,直接扣血,10000,true,plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml,20,路西法之灵 -> 路西法之灵技能 -> 路西法之灵技能击中,damage{amount=10000;ignoreArmor=true;pk=true}
+8,骑士击杀错误死亡,普通伤害,0.5,false,plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml,46,瘟疫骑士分身2 -> 骑士击杀错误死亡,Damagepercent{percent=0.5} @PlayersInRadius{r=10}
+8,天启之柱爆炸,普通伤害,0.5,false,plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml,51,天启之柱 -> 天启之柱爆炸,Damagepercent{percent=0.5} @PlayersInRadius{r=36}
+8,神天启之柱爆炸,普通伤害,0.5,false,plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml,59,神天启之柱 -> 神天启之柱爆炸,Damagepercent{percent=0.5} @PlayersInRadius{r=36}
+8,分身超时爆炸,普通伤害,0.5,false,plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml,68,瘟疫骑士分身1 -> 分身超时爆炸,Damagepercent{percent=0.5} @PlayersInRadius{r=36}
+8,转场波Hit2,直接扣血,200000,true,plugins/MythicMobs/Skills/第八层技能/转场波.yml,18,转场波载体 -> 转场波 -> 转场波Hit2,damage{amount=200000;ignoreArmor=true}
+8,重羽Hit,普通伤害,0.05,false,plugins/MythicMobs/Skills/第八层技能/重羽.yml,41,路西法 -> 重羽 -> 重羽Hit,percentDamage{percent=0.05}
+8,重羽Hit,直接扣血,750000,true,plugins/MythicMobs/Skills/第八层技能/重羽.yml,42,路西法 -> 重羽 -> 重羽Hit,damage{amount=750000;ignoreArmor=true}
+8,神重羽Hit,普通伤害,0.1,false,plugins/MythicMobs/Skills/第八层技能/重羽.yml,85,路西法 -> 神重羽 -> 神重羽Hit,percentDamage{percent=0.1}
+8,神重羽Hit,直接扣血,1250000,true,plugins/MythicMobs/Skills/第八层技能/重羽.yml,86,路西法 -> 神重羽 -> 神重羽Hit,damage{amount=1250000;ignoreArmor=true}
+9,圆舞之轮射出Hit,直接扣血,1500000,true,plugins/MythicMobs/Skills/第九层技能.yml,292,聚变魂体1 -> 矩阵冲击-射 -> 圆舞之轮射出 -> 圆舞之轮射出Hit,damage{amount=1500000;ignoreArmor=true}
+9,矩阵冲击-散射出Hit,直接扣血,800000,true,plugins/MythicMobs/Skills/第九层技能.yml,350,聚变魂体1 -> 矩阵冲击-散 -> 矩阵冲击-散射出 -> 矩阵冲击-散射出Hit,damage{amount=800000;ignoreArmor=true}
+9,大圆舞之轮射出Hit,直接扣血,3000000,true,plugins/MythicMobs/Skills/第九层技能.yml,483,聚变融合物1 -> 大圆舞之轮 -> 大圆舞之轮射出 -> 大圆舞之轮射出Hit,damage{amount=3000000;ignoreArmor=true}
+9,大圆舞之轮环绕,直接扣血,1200000,true,plugins/MythicMobs/Skills/第九层技能.yml,511,聚变融合物1 -> 大圆舞之轮 -> 大圆舞之轮环绕,damage{amount=1200000;ignoreArmor=true} @PNTL{r=30}
+9,矩阵冲击-散射射出Hit,直接扣血,2000000,true,plugins/MythicMobs/Skills/第九层技能.yml,533,聚变融合物1 -> 矩阵冲击-散射 -> 矩阵冲击-散射射出 -> 矩阵冲击-散射射出Hit,damage{amount=2000000;ignoreArmor=true}
+9,矩阵冲击-大散射出Hit,直接扣血,1000000,true,plugins/MythicMobs/Skills/第九层技能.yml,553,聚变融合物1 -> 矩阵冲击-大散 -> 矩阵冲击-大散射出 -> 矩阵冲击-大散射出Hit,damage{amount=1000000;ignoreArmor=true}
+9,魂体之咒,直接扣血,700000,true,plugins/MythicMobs/Skills/第九层技能.yml,581,聚变魂体1 -> 魂体之咒,damage{amount=700000;ignoreArmor=true} @PlayersInRadius{r=100}
+9,融合物之咒,直接扣血,4000000,true,plugins/MythicMobs/Skills/第九层技能.yml,603,聚变融合物1 -> 融合物之咒,damage{amount=4000000;ignoreArmor=true} @PlayersInRadius{r=50}
+9,融合物之咒1,直接扣血,4000000,true,plugins/MythicMobs/Skills/第九层技能.yml,628,聚变融合物1 -> 融合物之咒1,damage{amount=4000000;ignoreArmor=true} @PlayersInRadius{r=50}
+10,真理武者1,普通伤害,250,false,plugins/MythicMobs/Mobs/10第十层怪物.yml,93,真理武者1,damage{amount=250;ignoreArmor=false;preventknockback=true} @LivingEntitiesInRadius{r=15} ~onTimer:22
+10,兵长之灵_命中,普通伤害,0.05,false,plugins/MythicMobs/Skills/第七层技能.yml,163,真理武者1 -> 兵长脱战回血 -> 兵长之灵 -> 兵长之灵_命中,Damagepercent{percent=0.05;pk=true}
+10,11最终高台对玩家弹幕击中,直接扣血,2000000,true,plugins/MythicMobs/Skills/第十层技能.yml,23,虚幻真理 -> 11最终高台弹幕技能 -> 11最终高台对玩家弹幕 -> 11最终高台对玩家弹幕击中,damage{amount=2000000;ignoreArmor=true}
+10,真理天命,直接扣血,18000000,true,plugins/MythicMobs/Skills/第十层技能.yml,56,真理武者1 -> 真理天命,damage{amount=18000000;ignoreArmor=true} @PlayersInRadius{r=48}
+10,真理文字伤,普通伤害,4000000,false,plugins/MythicMobs/Skills/第十层技能.yml,79,真理武者1 -> 真理一文字 -> 真理文字伤,damage{amount=4000000;i=false}
+10,真理文字终,普通伤害,4000000,false,plugins/MythicMobs/Skills/第十层技能.yml,84,真理武者1 -> 真理一文字 -> 真理文字终,damage{amount=4000000;i=false} @LivingEntitiesInRadius{r=3}
+10,真理他要说台词,直接扣血,18000000,true,plugins/MythicMobs/Skills/第十层技能.yml,151,真理武者1 -> 真理他要说台词,damage{amount=18000000;ignoreArmor=true} @PlayersInRadius{r=48}
+10,真理心技伤,普通伤害,7000000,false,plugins/MythicMobs/Skills/第十层技能.yml,241,真理武者1 -> 真理他要说台词 -> 真理心技伤,damage{amount=7000000;i=false}
+10,真理心技终,普通伤害,7000000,false,plugins/MythicMobs/Skills/第十层技能.yml,246,真理武者1 -> 真理他要说台词 -> 真理心技终,damage{amount=7000000;i=false} @LivingEntitiesInRadius{r=3}
+10,真理光闪一痕,普通伤害,8000000,false,plugins/MythicMobs/Skills/第十层技能.yml,255,真理武者1 -> 真理光闪一痕,damage{amount=8000000;ia=false;pk=true} @LivingEntitiesInRadius{r=5}
+10,真理闪神雷暴,普通伤害,8000000,false,plugins/MythicMobs/Skills/第十层技能.yml,271,真理武者1 -> 真理闪神雷暴,damage{amount=8000000;ignoreArmor=false;preventknockback=true} @LivingEntitiesInRadius{r=6}
+10,真理闪神乱舞伤,普通伤害,10000000,false,plugins/MythicMobs/Skills/第十层技能.yml,296,真理武者1 -> 真理他要说台词2 -> 真理闪神乱舞伤,damage{amount=10000000;i=false}
+10,真理闪神乱舞终,普通伤害,10000000,false,plugins/MythicMobs/Skills/第十层技能.yml,301,真理武者1 -> 真理他要说台词2 -> 真理闪神乱舞终,damage{amount=10000000;i=false} @PlayersInRadius{r=4}
+10,真理他要说台词2,普通伤害,1000,false,plugins/MythicMobs/Skills/第十层技能.yml,310,真理武者1 -> 真理他要说台词2,damage{amount=1000;ignoreArmor=false;preventknockback=true} @PlayersInRadius{r=6}
+10,真理闪神文字伤,普通伤害,14000000,false,plugins/MythicMobs/Skills/第十层技能.yml,356,真理武者1 -> 真理闪神十文字 -> 真理闪神文字伤,damage{amount=14000000;i=false}
+10,鬼武闪神文字终,普通伤害,16000000,false,plugins/MythicMobs/Skills/第十层技能.yml,362,真理武者1 -> 鬼武闪神文字终,damage{amount=16000000;i=false} @LivingEntitiesInRadius{r=4}
+11,剑仙,普通伤害,250,false,plugins/MythicMobs/Mobs/11第十一层怪物.yml,31,剑仙,damage{amount=250;ignoreArmor=false;preventknockback=true} @LivingEntitiesInRadius{r=15} ~onTimer:22
+11,剑仙天命之理,直接扣血,37000000,true,plugins/MythicMobs/Skills/十一层技能.yml,21,剑仙 -> 剑仙天命之理,damage{amount=37000000;ignoreArmor=true} @PlayersInRadius{r=24}
+11,仙剑-剑舞,直接扣血,20000000,true,plugins/MythicMobs/Skills/十一层技能.yml,28,剑仙 -> 仙剑-剑舞,damage{a=20000000;i=true} @PIR{r=3}
+11,仙剑-剑舞,直接扣血,75,true,plugins/MythicMobs/Skills/十一层技能.yml,30,剑仙 -> 仙剑-剑舞,damage{a=75;i=true} @PIR{r=3}
+11,仙剑-剑舞,直接扣血,30000000,true,plugins/MythicMobs/Skills/十一层技能.yml,32,剑仙 -> 仙剑-剑舞,damage{a=30000000;i=true} @PIR{r=3}
+11,仙剑-剑舞,直接扣血,40000000,true,plugins/MythicMobs/Skills/十一层技能.yml,34,剑仙 -> 仙剑-剑舞,damage{a=40000000;i=true} @PIR{r=3}
+11,仙剑-剑舞,直接扣血,50000000,true,plugins/MythicMobs/Skills/十一层技能.yml,36,剑仙 -> 仙剑-剑舞,damage{a=50000000;i=true} @PIR{r=3}
+11,仙剑-剑舞,直接扣血,50000000,true,plugins/MythicMobs/Skills/十一层技能.yml,38,剑仙 -> 仙剑-剑舞,damage{a=50000000;i=true} @PIR{r=3}
+11,攻击剑伤,普通伤害,20000000,false,plugins/MythicMobs/Skills/十一层技能.yml,119,剑仙 -> 剑技-泯世 -> 攻击剑伤,damage{amount=20000000;i=false}
+11,攻击剑终,普通伤害,30000000,false,plugins/MythicMobs/Skills/十一层技能.yml,124,剑仙 -> 剑技-泯世 -> 攻击剑终,damage{amount=30000000;i=false} @LivingEntitiesInRadius{r=3}
+11,绝代Hit,直接扣血,18000000,true,plugins/MythicMobs/Skills/十一层技能.yml,172,剑仙 -> 剑技-绝代 -> 绝代Hit,damage{amount=18000000;ignoreArmor=true}
+11,陨曦-伤,直接扣血,30000000,true,plugins/MythicMobs/Skills/十一层技能.yml,227,剑仙 -> 剑技-斩世 -> 陨曦-伤,damage{a=30000000;i=true} @PIR{r=3}
+11,陨曦-伤,普通伤害,100,false,plugins/MythicMobs/Skills/十一层技能.yml,236,剑仙 -> 剑技-斩世 -> 陨曦-伤,damage{a=100} @PIR{r=5}
+11,仙逆Hit,直接扣血,32000000,true,plugins/MythicMobs/Skills/十一层技能.yml,286,剑仙 -> 剑技-仙逆 -> 仙逆Hit,damage{amount=32000000;ignoreArmor=true}
+11,剑意分身超时爆炸,普通伤害,0.5,false,plugins/MythicMobs/Skills/十一层技能.yml,303,剑意分身 -> 剑意分身超时爆炸,percentDamage{percent=0.5} @World

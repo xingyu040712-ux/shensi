@@ -1,0 +1,27 @@
+{
+  "npc_id": "floor_tp_2",
+  "npc_name": "二层传送npc",
+  "location": {
+    "world": "world",
+    "x": -14.007,
+    "y": 53.0,
+    "z": -62.056,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "menu_file": "floor_tp_2.yml",
+  "trigger_file": "floor_tp_2.yml",
+  "menu_title": "&9第二层副本 · 普通线路",
+  "routes": [
+    {
+      "name": "&e第二层 · 普通一线",
+      "world": "F2",
+      "description": "&7前线战场 · 点击传送"
+    },
+    {
+      "name": "&e第二层 · 普通二线",
+      "world": "F22x",
+      "description": "&7前线战场 · 点击传送"
+    }
+  ]
+}

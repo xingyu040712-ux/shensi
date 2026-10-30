@@ -1,0 +1,27 @@
+{
+  "npc_id": "floor_tp_3",
+  "npc_name": "三层传送npc",
+  "location": {
+    "world": "world",
+    "x": -13.746,
+    "y": 66.0,
+    "z": -73.9,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "menu_file": "floor_tp_3.yml",
+  "trigger_file": "floor_tp_3.yml",
+  "menu_title": "&9第三层副本 · 普通线路",
+  "routes": [
+    {
+      "name": "&e第三层 · 普通一线",
+      "world": "F3",
+      "description": "&7点击传送第三层普通一线"
+    },
+    {
+      "name": "&e第三层 · 普通二线",
+      "world": "F32x",
+      "description": "&7点击传送第三层普通二线"
+    }
+  ]
+}

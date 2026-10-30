@@ -1,0 +1,93 @@
+{
+  "status": "completed",
+  "date": "2026-10-30",
+  "source": "D:\\11111\\11111\\aier - 副本\\aier\\aier\\RPG",
+  "target": "D:\\11月四区新端创作中\\神四",
+  "durations": [
+    1,
+    3,
+    7,
+    15,
+    30
+  ],
+  "checks": [
+    {
+      "name": "1天卡实际右键激活",
+      "pass": true,
+      "durationMilliseconds": 86400000,
+      "cardsBefore": 3,
+      "cardsAfter": 2
+    },
+    {
+      "name": "3天卡实际右键激活",
+      "pass": true,
+      "durationMilliseconds": 259200000,
+      "cardsBefore": 3,
+      "cardsAfter": 2
+    },
+    {
+      "name": "7天卡实际右键激活",
+      "pass": true,
+      "durationMilliseconds": 604800000,
+      "cardsBefore": 3,
+      "cardsAfter": 2
+    },
+    {
+      "name": "15天卡实际右键激活",
+      "pass": true,
+      "durationMilliseconds": 1296000000,
+      "cardsBefore": 3,
+      "cardsAfter": 2
+    },
+    {
+      "name": "30天卡实际右键激活",
+      "pass": true,
+      "durationMilliseconds": 2592000000,
+      "cardsBefore": 3,
+      "cardsAfter": 2
+    },
+    {
+      "name": "连续10次点击只消费一次，之后正常续期累加",
+      "pass": true
+    },
+    {
+      "name": "重新登录后30天时长和原截止时间保留",
+      "pass": true
+    },
+    {
+      "name": "在线到期回收",
+      "pass": true,
+      "nonVipPermissionPreserved": true,
+      "method": "仅将测试账号期限设为已过期，不修改服务器时钟"
+    },
+    {
+      "name": "离线到期后登录回收",
+      "pass": true,
+      "nonVipPermissionPreserved": true,
+      "method": "仅将测试账号期限设为已过期，不修改服务器时钟"
+    },
+    {
+      "name": "艾尔旧格式会员卡直接激活",
+      "pass": true
+    },
+    {
+      "name": "测试会员、卡片、临时权限和注册清理",
+      "pass": true
+    }
+  ],
+  "allChecksPassed": true,
+  "configurationFilesChanged": 4,
+  "sourceFilesVerifiedUnchanged": 35,
+  "targetSampledFilesChecked": 39,
+  "allExistingPermissionGroupsUnchanged": 6,
+  "javaFileBytesUnchanged": true,
+  "javaIntegrityLabelChanged": "Low to Medium",
+  "serverPID": 3896,
+  "serverPort": 35237,
+  "backup": "D:\\11月四区新端创作中\\神四\\_codex_backup\\vip_cards_20261030_055436",
+  "realTestPlayer": "CXS4_VIP1030",
+  "testAuthRegistrationRemoved": true,
+  "testVipRecordsRemaining": 0,
+  "rollbackTestPerformed": false,
+  "sourcePlayerVipRecordsImported": false
+}

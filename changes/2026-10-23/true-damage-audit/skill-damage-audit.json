@@ -1,0 +1,3199 @@
+{
+  "scope": "第6至11层为主要范围；第5层作为边界对照。仅静态配置可达，不声称所有条件在实战会触发。",
+  "globalSkillIds": 807,
+  "globalMobIds": 146,
+  "duplicates": [
+    {
+      "id": "世界真理大将军特效",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "世界真理大将军群攻",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "世界真理大将军脱战回血",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "世界真理大将军死亡",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "召唤世界真理大将军之灵",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "世界真理大将军之灵",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "世界真理大将军_命中",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "世界真理大将军_轨迹",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "世界真理大将军天命之理",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵战将技能.yml",
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml"
+      ]
+    },
+    {
+      "id": "脱战回血",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/第三层技能.yml",
+        "plugins/MythicMobs/Skills/第九层技能.yml"
+      ]
+    },
+    {
+      "id": "脱战回血",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/第三层技能.yml",
+        "plugins/MythicMobs/Skills/第九层技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml"
+      ]
+    },
+    {
+      "id": "3分钟自杀",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/第三层技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml"
+      ]
+    },
+    {
+      "id": "魔王打击",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml"
+      ]
+    },
+    {
+      "id": "魔王打击Homer_TICK",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml"
+      ]
+    },
+    {
+      "id": "魔王打击Homer_HIT",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml"
+      ]
+    },
+    {
+      "id": "脱战回血",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/第三层技能.yml",
+        "plugins/MythicMobs/Skills/第九层技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能1.yml"
+      ]
+    },
+    {
+      "id": "3分钟自杀",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/第三层技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能1.yml"
+      ]
+    },
+    {
+      "id": "处刑者回血",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "处刑者IceBolt",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "处刑者IceBolt-Tick",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "处刑者IceBolt-Hit",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "魔王打击",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "魔王打击Homer_TICK",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "魔王打击Homer_HIT",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "魔王御神柱B",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "魔王御神柱C",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "御神柱爆炸",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "御神柱终级爆炸",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml"
+      ]
+    },
+    {
+      "id": "脱战回血",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/第三层技能.yml",
+        "plugins/MythicMobs/Skills/第九层技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能1.yml",
+        "plugins/MythicMobs/Skills/第四层技能.yml"
+      ]
+    },
+    {
+      "id": "御神柱爆炸",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml",
+        "plugins/MythicMobs/Skills/第四层技能.yml"
+      ]
+    },
+    {
+      "id": "御神柱终级爆炸",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能4.yml",
+        "plugins/MythicMobs/Skills/第四层技能.yml"
+      ]
+    },
+    {
+      "id": "3分钟自杀",
+      "folder": "Skills",
+      "files": [
+        "plugins/MythicMobs/Skills/第三层技能.yml",
+        "plugins/MythicMobs/Skills/第二层技能.yml",
+        "plugins/MythicMobs/Skills/第五层技能1.yml",
+        "plugins/MythicMobs/Skills/第四层技能.yml"
+      ]
+    },
+    {
+      "id": "幻术之球",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "遗忘力士",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "军士之灵",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "多重爆发之灵",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "遗忘者",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "亡者",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "城主之灵",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "多重打击之灵",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "处刑者侍卫",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "魔王之灵",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "魔王打击之灵",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    },
+    {
+      "id": "魔王御神柱",
+      "folder": "Mobs",
+      "files": [
+        "plugins/MythicMobs/Mobs/5第五层怪物.yml",
+        "plugins/MythicMobs/Mobs/vip怪物/5第五层怪物.yml"
+      ]
+    }
+  ],
+  "referenceCoverage": "解析技能/投射物/光环等参数中明确的技能名，并跟踪summon辅助怪；动态表达式、signal目标、特殊载体与重复定义的实际加载顺序需要运行时另核。",
+  "floors": [
+    {
+      "floor": 5,
+      "mobDefinitions": 16,
+      "rootMobIds": [
+        "遗忘幻术师",
+        "幻术之球",
+        "遗忘力士",
+        "遗忘军士-科洛莫斯",
+        "军士之灵",
+        "多重爆发之灵",
+        "遗忘者",
+        "遗忘城主-卡拉特斯",
+        "亡者",
+        "城主之灵",
+        "多重打击之灵",
+        "处刑者侍卫",
+        "魔王莫洛斯托",
+        "魔王之灵",
+        "魔王打击之灵",
+        "魔王御神柱"
+      ],
+      "reachedSkills": 99,
+      "reachedMobs": 16,
+      "uniqueDamageActions": 48,
+      "nonSelfDamageActions": 48,
+      "damageCategories": {
+        "direct-health-custom": 14,
+        "ordinary-event": 34
+      },
+      "selfOrParentActions": 0,
+      "missingReferences": [],
+      "damageActions": [
+        {
+          "mechanic": "damage",
+          "amount": "1200",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1200;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+          "line": 22,
+          "owner": "处刑者IceBolt-Hit",
+          "route": [
+            "处刑者侍卫",
+            "处刑者IceBolt",
+            "处刑者IceBolt-Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.07",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.07}",
+          "file": "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+          "line": 109,
+          "owner": "魔王打击Homer_HIT",
+          "route": [
+            "魔王打击之灵",
+            "魔王打击",
+            "魔王打击Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=5}",
+          "file": "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+          "line": 158,
+          "owner": "御神柱爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+          "line": 175,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+          "line": 177,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/怨灵骑士技能.yml",
+          "line": 179,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第二层技能.yml",
+          "line": 353,
+          "owner": "魔王打击Homer_HIT",
+          "route": [
+            "魔王打击之灵",
+            "魔王打击",
+            "魔王打击Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "300",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=300;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第二层技能.yml",
+          "line": 354,
+          "owner": "魔王打击Homer_HIT",
+          "route": [
+            "魔王打击之灵",
+            "魔王打击",
+            "魔王打击Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "250",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=250;i=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能1.yml",
+          "line": 37,
+          "owner": "遗忘幻术师AOE",
+          "route": [
+            "遗忘幻术师",
+            "遗忘幻术师AOE"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.02",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.02;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能1.yml",
+          "line": 50,
+          "owner": "幻术之球_命中",
+          "route": [
+            "幻术之球",
+            "幻术之球",
+            "幻术之球_命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "8000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=8000;ignoreArmor=true} @PlayersInRadius{r=48}",
+          "file": "plugins/MythicMobs/Skills/第五层技能1.yml",
+          "line": 75,
+          "owner": "遗忘幻术师天命之理",
+          "route": [
+            "遗忘幻术师",
+            "遗忘幻术师天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第五层技能1.yml",
+          "line": 107,
+          "owner": "遗忘幻术师Homer_HIT",
+          "route": [
+            "遗忘幻术师",
+            "遗忘幻术师爆发冲击",
+            "遗忘幻术师Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.20",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.20}",
+          "file": "plugins/MythicMobs/Skills/第五层技能1.yml",
+          "line": 114,
+          "owner": "遗忘幻术师爆发冲击Hit",
+          "route": [
+            "遗忘幻术师",
+            "遗忘幻术师爆发冲击",
+            "遗忘幻术师爆发冲击Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "400",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=400;ignoreArmor=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 29,
+          "owner": "遗忘力士远攻",
+          "route": [
+            "遗忘力士",
+            "遗忘力士远攻"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "400",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=400;i=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 46,
+          "owner": "遗忘军士AOE",
+          "route": [
+            "遗忘军士-科洛莫斯",
+            "遗忘军士AOE"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.03",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.03;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 63,
+          "owner": "军士之灵_命中",
+          "route": [
+            "军士之灵",
+            "军士之灵",
+            "军士之灵_命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "10000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=10000;ignoreArmor=true} @PlayersInRadius{r=48}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 88,
+          "owner": "遗忘军士天命之理",
+          "route": [
+            "遗忘军士-科洛莫斯",
+            "遗忘军士天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 120,
+          "owner": "遗忘军士Homer_HIT",
+          "route": [
+            "遗忘军士-科洛莫斯",
+            "遗忘军士爆发冲击",
+            "遗忘军士Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.20",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.20}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 127,
+          "owner": "遗忘军士爆发冲击Hit",
+          "route": [
+            "遗忘军士-科洛莫斯",
+            "遗忘军士爆发冲击",
+            "遗忘军士爆发冲击Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 168,
+          "owner": "遗忘军士多重Homer_HIT",
+          "route": [
+            "遗忘军士-科洛莫斯",
+            "遗忘军士多重爆发冲击",
+            "遗忘军士多重Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.20",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.20}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 174,
+          "owner": "遗忘军士多重爆发冲击Hit",
+          "route": [
+            "遗忘军士-科洛莫斯",
+            "遗忘军士多重爆发冲击",
+            "遗忘军士多重爆发冲击Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.03",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.03}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 202,
+          "owner": "多重Homer_HIT",
+          "route": [
+            "多重爆发之灵",
+            "多重爆发冲击",
+            "多重Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.15",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.15}",
+          "file": "plugins/MythicMobs/Skills/第五层技能2.yml",
+          "line": 208,
+          "owner": "多重爆发冲击Hit",
+          "route": [
+            "多重爆发之灵",
+            "多重爆发冲击",
+            "多重爆发冲击Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "340",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=340;ignoreArmor=false;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 6,
+          "owner": "遗忘者远攻",
+          "route": [
+            "遗忘者",
+            "遗忘者远攻"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 16,
+          "owner": "遗忘者IceBolt-Hit",
+          "route": [
+            "遗忘者",
+            "遗忘者IceBolt",
+            "遗忘者IceBolt-Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "600",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=600;i=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 40,
+          "owner": "遗忘城主AOE",
+          "route": [
+            "遗忘城主-卡拉特斯",
+            "遗忘城主AOE"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.03",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.03;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 53,
+          "owner": "城主之灵_命中",
+          "route": [
+            "城主之灵",
+            "城主之灵",
+            "城主之灵_命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "12000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=12000;ignoreArmor=true} @PlayersInRadius{r=48}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 78,
+          "owner": "遗忘城主天命之理",
+          "route": [
+            "遗忘城主-卡拉特斯",
+            "遗忘城主天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.25",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.25}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 125,
+          "owner": "遗忘城主多重打击Hit",
+          "route": [
+            "遗忘城主-卡拉特斯",
+            "遗忘城主多重打击",
+            "遗忘城主多重打击Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 156,
+          "owner": "多重打击Homer_HIT",
+          "route": [
+            "多重打击之灵",
+            "多重打击",
+            "多重打击Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 206,
+          "owner": "亡者之殇Homer_HIT",
+          "route": [
+            "亡者",
+            "亡者之殇",
+            "亡者之殇Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 208,
+          "owner": "亡者之殇Homer_HIT",
+          "route": [
+            "亡者",
+            "亡者之殇",
+            "亡者之殇Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2}",
+          "file": "plugins/MythicMobs/Skills/第五层技能3.yml",
+          "line": 210,
+          "owner": "亡者之殇Homer_HIT",
+          "route": [
+            "亡者",
+            "亡者之殇",
+            "亡者之殇Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "600",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=600;ignoreArmor=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 9,
+          "owner": "处刑者远攻",
+          "route": [
+            "处刑者侍卫",
+            "处刑者远攻"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1200",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1200;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 22,
+          "owner": "处刑者IceBolt-Hit",
+          "route": [
+            "处刑者侍卫",
+            "处刑者IceBolt",
+            "处刑者IceBolt-Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1300",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1300;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 33,
+          "owner": "魔王莫洛斯托群攻",
+          "route": [
+            "魔王莫洛斯托",
+            "魔王莫洛斯托群攻"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 61,
+          "owner": "魔王之灵_命中",
+          "route": [
+            "魔王之灵",
+            "魔王之灵",
+            "魔王之灵_命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "23000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=23000;ignoreArmor=true} @PlayersInRadius{r=48}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 86,
+          "owner": "魔王天命之理",
+          "route": [
+            "魔王莫洛斯托",
+            "魔王天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.25",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.25}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 133,
+          "owner": "魔王多重打击Hit",
+          "route": [
+            "魔王莫洛斯托",
+            "魔王多重打击",
+            "魔王多重打击Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.07",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.07}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 164,
+          "owner": "魔王打击Homer_HIT",
+          "route": [
+            "魔王打击之灵",
+            "魔王打击",
+            "魔王打击Homer_HIT"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=5}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 213,
+          "owner": "御神柱爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 230,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 232,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/第五层技能4.yml",
+          "line": 234,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=2} @PlayersInRadius{r=9}",
+          "file": "plugins/MythicMobs/Skills/第四层技能.yml",
+          "line": 105,
+          "owner": "御神柱爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱爆炸"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/第四层技能.yml",
+          "line": 122,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/第四层技能.yml",
+          "line": 124,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=2} @PlayersInRadius{r=64}",
+          "file": "plugins/MythicMobs/Skills/第四层技能.yml",
+          "line": 126,
+          "owner": "御神柱终级爆炸",
+          "route": [
+            "魔王御神柱",
+            "御神柱终级爆炸"
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 6,
+      "mobDefinitions": 5,
+      "rootMobIds": [
+        "恐惧惊骇",
+        "恐惧惊骇弹幕",
+        "巫妖恩佩斯",
+        "巫妖恩佩斯弹幕",
+        "死亡骸骨"
+      ],
+      "reachedSkills": 17,
+      "reachedMobs": 5,
+      "uniqueDamageActions": 9,
+      "nonSelfDamageActions": 9,
+      "damageCategories": {
+        "direct-health-custom": 6,
+        "ordinary-event": 3
+      },
+      "selfOrParentActions": 0,
+      "missingReferences": [],
+      "damageActions": [
+        {
+          "mechanic": "damage",
+          "amount": "500",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=500;ia=true} @PIR{r=5} ~onTimer:20",
+          "file": "plugins/MythicMobs/Mobs/6第六层怪物.yml",
+          "line": 229,
+          "owner": "死亡骸骨",
+          "route": [
+            "死亡骸骨"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "15000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=15000;ia=true}@PlayersInRadius{r=30}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 16,
+          "owner": "恐惧惊骇天命之理",
+          "route": [
+            "恐惧惊骇",
+            "恐惧惊骇天命之理"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "18000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=18000;ia=true}@PlayersInRadius{r=30}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 33,
+          "owner": "巫妖恩佩斯天命之理",
+          "route": [
+            "巫妖恩佩斯",
+            "巫妖恩佩斯天命之理"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{a=1}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 63,
+          "owner": "恐惧惊骇爆发冲击-命中",
+          "route": [
+            "恐惧惊骇",
+            "恐惧惊骇爆发冲击",
+            "恐惧惊骇爆发冲击-命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "4000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=4000;ia=true}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 64,
+          "owner": "恐惧惊骇爆发冲击-命中",
+          "route": [
+            "恐惧惊骇",
+            "恐惧惊骇爆发冲击",
+            "恐惧惊骇爆发冲击-命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "800",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=800;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 103,
+          "owner": "恐惧惊骇AOE",
+          "route": [
+            "恐惧惊骇",
+            "恐惧惊骇AOE"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 107,
+          "owner": "巫妖恩佩斯AOE",
+          "route": [
+            "巫妖恩佩斯",
+            "巫妖恩佩斯AOE"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "800",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{a=800;ignoreArmor=false} @PlayersNearOrigin{r=10}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 120,
+          "owner": "恐惧惊骇弹幕技能击中",
+          "route": [
+            "恐惧惊骇弹幕",
+            "恐惧惊骇弹幕技能",
+            "恐惧惊骇弹幕技能击中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{a=1000;ignoreArmor=false} @PlayersNearOrigin{r=10}",
+          "file": "plugins/MythicMobs/Skills/第六层技能.yml",
+          "line": 135,
+          "owner": "巫妖恩佩斯弹幕技能击中",
+          "route": [
+            "巫妖恩佩斯弹幕",
+            "巫妖恩佩斯弹幕技能",
+            "巫妖恩佩斯弹幕技能击中"
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 7,
+      "mobDefinitions": 9,
+      "rootMobIds": [
+        "神域卫兵",
+        "神域弓箭手",
+        "神域守卫",
+        "神域兵长布鲁克",
+        "神域骑士克劳德",
+        "神域将领杰佛理",
+        "兵长之灵",
+        "骑士之灵",
+        "将领之灵"
+      ],
+      "reachedSkills": 96,
+      "reachedMobs": 9,
+      "uniqueDamageActions": 38,
+      "nonSelfDamageActions": 38,
+      "damageCategories": {
+        "direct-health-custom": 19,
+        "ordinary-event": 19
+      },
+      "selfOrParentActions": 0,
+      "missingReferences": [],
+      "damageActions": [
+        {
+          "mechanic": "damage",
+          "amount": "35000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=35000;ignoreArmor=true} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 107,
+          "owner": "兵长天命之理",
+          "route": [
+            "神域兵长布鲁克",
+            "兵长天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.20",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.20} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 108,
+          "owner": "兵长天命之理",
+          "route": [
+            "神域兵长布鲁克",
+            "兵长天命之理"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "45000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=45000;ignoreArmor=true} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 128,
+          "owner": "骑士天命之理",
+          "route": [
+            "神域骑士克劳德",
+            "骑士天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.25",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.25} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 129,
+          "owner": "骑士天命之理",
+          "route": [
+            "神域骑士克劳德",
+            "骑士天命之理"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "70000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=70000;ignoreArmor=true} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 149,
+          "owner": "将领天命之理",
+          "route": [
+            "神域将领杰佛理",
+            "将领天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.30",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.30} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 150,
+          "owner": "将领天命之理",
+          "route": [
+            "神域将领杰佛理",
+            "将领天命之理"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 163,
+          "owner": "兵长之灵_命中",
+          "route": [
+            "兵长之灵",
+            "兵长之灵",
+            "兵长之灵_命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "3000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=3000;ignoreArmor=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 173,
+          "owner": "神域卫兵远攻",
+          "route": [
+            "神域卫兵",
+            "神域卫兵远攻"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.01",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.01;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 177,
+          "owner": "神域AOE",
+          "route": [
+            "神域卫兵",
+            "神域AOE"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "2000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=2000;ignoreArmor=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 187,
+          "owner": "神域弓箭手远攻",
+          "route": [
+            "神域弓箭手",
+            "神域弓箭手远攻"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "5000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=5000;ignoreArmor=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 197,
+          "owner": "神域守卫远攻",
+          "route": [
+            "神域守卫",
+            "神域守卫远攻"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "10000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=10000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 236,
+          "owner": "神域兵长布鲁克冲锋Hit",
+          "route": [
+            "神域兵长布鲁克",
+            "神域兵长布鲁克冲锋",
+            "神域兵长布鲁克冲锋Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.3",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.3}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 237,
+          "owner": "神域兵长布鲁克冲锋Hit",
+          "route": [
+            "神域兵长布鲁克",
+            "神域兵长布鲁克冲锋",
+            "神域兵长布鲁克冲锋Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "10000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=10000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 271,
+          "owner": "神域兵长闪现斩击2Hit",
+          "route": [
+            "神域兵长布鲁克",
+            "神域兵长闪现斩击",
+            "神域兵长闪现斩击2Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 272,
+          "owner": "神域兵长闪现斩击2Hit",
+          "route": [
+            "神域兵长布鲁克",
+            "神域兵长闪现斩击",
+            "神域兵长闪现斩击2Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "15000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=15000;ignoreArmor=true} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 277,
+          "owner": "神域兵长闪现斩击End",
+          "route": [
+            "神域兵长布鲁克",
+            "神域兵长闪现斩击",
+            "神域兵长闪现斩击End"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 278,
+          "owner": "神域兵长闪现斩击End",
+          "route": [
+            "神域兵长布鲁克",
+            "神域兵长闪现斩击",
+            "神域兵长闪现斩击End"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "20000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=20000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 351,
+          "owner": "神域骑士闪现斩击2Hit",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士闪现斩击",
+            "神域骑士闪现斩击2Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.10",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 352,
+          "owner": "神域骑士闪现斩击2Hit",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士闪现斩击",
+            "神域骑士闪现斩击2Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=30000;ignoreArmor=true} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 357,
+          "owner": "神域骑士闪现斩击End",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士闪现斩击",
+            "神域骑士闪现斩击End"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.10",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.10} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 358,
+          "owner": "神域骑士闪现斩击End",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士闪现斩击",
+            "神域骑士闪现斩击End"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=30000;ignoreArmor=true} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 392,
+          "owner": "骑士破魔斩End",
+          "route": [
+            "神域骑士克劳德",
+            "骑士破魔斩",
+            "骑士破魔斩End"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.10",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.10} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 393,
+          "owner": "骑士破魔斩End",
+          "route": [
+            "神域骑士克劳德",
+            "骑士破魔斩",
+            "骑士破魔斩End"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=30000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 414,
+          "owner": "神域骑士闪现脱离Hit",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士闪现脱离",
+            "神域骑士闪现脱离Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.10",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 415,
+          "owner": "神域骑士闪现脱离Hit",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士闪现脱离",
+            "神域骑士闪现脱离Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "20000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=20000;ignoreArmor=true} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 443,
+          "owner": "神域骑士一闪End",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士一闪",
+            "神域骑士一闪End"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.10",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.10} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 444,
+          "owner": "神域骑士一闪End",
+          "route": [
+            "神域骑士克劳德",
+            "神域骑士一闪",
+            "神域骑士一闪End"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 457,
+          "owner": "骑士之灵_命中",
+          "route": [
+            "骑士之灵",
+            "骑士之灵",
+            "骑士之灵_命中"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 474,
+          "owner": "将领之灵_命中",
+          "route": [
+            "将领之灵",
+            "将领之灵",
+            "将领之灵_命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "35000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=35000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 500,
+          "owner": "鬼闪Hit",
+          "route": [
+            "神域将领杰佛理",
+            "鬼闪",
+            "鬼闪Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.15",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.15}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 501,
+          "owner": "鬼闪Hit",
+          "route": [
+            "神域将领杰佛理",
+            "鬼闪",
+            "鬼闪Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "50000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=50000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 524,
+          "owner": "次元斩击Hit",
+          "route": [
+            "神域将领杰佛理",
+            "次元斩击",
+            "次元斩击Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.15",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.15}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 525,
+          "owner": "次元斩击Hit",
+          "route": [
+            "神域将领杰佛理",
+            "次元斩击",
+            "次元斩击Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "50000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=50000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 546,
+          "owner": "突击次元斩Hit",
+          "route": [
+            "神域将领杰佛理",
+            "突击次元斩",
+            "突击次元斩Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.15",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.15}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 547,
+          "owner": "突击次元斩Hit",
+          "route": [
+            "神域将领杰佛理",
+            "突击次元斩",
+            "突击次元斩Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "50000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=50000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 568,
+          "owner": "次元闪击Hit",
+          "route": [
+            "神域将领杰佛理",
+            "次元闪击",
+            "次元闪击Hit"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.15",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.15}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 569,
+          "owner": "次元闪击Hit",
+          "route": [
+            "神域将领杰佛理",
+            "次元闪击",
+            "次元闪击Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=30000;ia=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 658,
+          "owner": "兵长瞬间三连斩-击中",
+          "route": [
+            "神域兵长布鲁克",
+            "兵长瞬间三连斩",
+            "兵长瞬间三连斩-击中"
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 8,
+      "mobDefinitions": 37,
+      "rootMobIds": [
+        "路西法",
+        "晨曦路西法",
+        "堕天路西法",
+        "天启之柱",
+        "神天启之柱",
+        "瘟疫骑士",
+        "瘟疫骑士分身1",
+        "瘟疫骑士分身2",
+        "瘟疫骑士分身3",
+        "瘟疫骑士分身4",
+        "死亡骑士",
+        "死亡骑士分身1",
+        "死亡骑士分身2",
+        "死亡骑士分身3",
+        "死亡骑士分身4",
+        "战争骑士",
+        "战争骑士分身1",
+        "战争骑士分身2",
+        "战争骑士分身3",
+        "战争骑士分身4",
+        "饥饿骑士",
+        "饥饿骑士分身1",
+        "饥饿骑士分身2",
+        "饥饿骑士分身3",
+        "饥饿骑士分身4",
+        "转场波载体",
+        "折返羽华折返波载体",
+        "羽华载体",
+        "大锁载体",
+        "神羽华分裂载体",
+        "神羽华收缩载体",
+        "神羽华发射载体",
+        "路西法之灵",
+        "死亡亡灵",
+        "八层传送载体-1",
+        "八层传送载体-2",
+        "骑士"
+      ],
+      "reachedSkills": 87,
+      "reachedMobs": 37,
+      "uniqueDamageActions": 33,
+      "nonSelfDamageActions": 31,
+      "damageCategories": {
+        "ordinary-event": 16,
+        "direct-health-custom": 15
+      },
+      "selfOrParentActions": 2,
+      "missingReferences": [],
+      "damageActions": [
+        {
+          "mechanic": "damage",
+          "amount": "1",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": true,
+          "text": "damage{a=1} @Self ~onTimer:40",
+          "file": "plugins/MythicMobs/Mobs/8第八层怪物.yml",
+          "line": 1125,
+          "owner": "八层传送载体-1",
+          "route": [
+            "八层传送载体-1"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": true,
+          "text": "damage{a=1} @Self ~onTimer:40",
+          "file": "plugins/MythicMobs/Mobs/8第八层怪物.yml",
+          "line": 1155,
+          "owner": "八层传送载体-2",
+          "route": [
+            "八层传送载体-2"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/凰炎.yml",
+          "line": 124,
+          "owner": "凰炎射出Hit",
+          "route": [
+            "路西法",
+            "凰炎",
+            "凰炎射出Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "500000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=500000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/凰炎.yml",
+          "line": 125,
+          "owner": "凰炎射出Hit",
+          "route": [
+            "路西法",
+            "凰炎",
+            "凰炎射出Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1500000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1500000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/凰炎.yml",
+          "line": 372,
+          "owner": "神凰炎射出Hit",
+          "route": [
+            "路西法",
+            "神凰炎",
+            "神凰炎射出Hit"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/剑羽.yml",
+          "line": 22,
+          "owner": "剑羽Hit",
+          "route": [
+            "路西法",
+            "剑羽",
+            "剑羽Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "750000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=750000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/剑羽.yml",
+          "line": 23,
+          "owner": "剑羽Hit",
+          "route": [
+            "路西法",
+            "剑羽",
+            "剑羽Hit"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.1",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.1}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/剑羽.yml",
+          "line": 54,
+          "owner": "神剑羽Hit",
+          "route": [
+            "路西法",
+            "神剑羽",
+            "神剑羽Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1250000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1250000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/剑羽.yml",
+          "line": 55,
+          "owner": "神剑羽Hit",
+          "route": [
+            "路西法",
+            "神剑羽",
+            "神剑羽Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/神殿封锁.yml",
+          "line": 4,
+          "owner": "路西法神殿封锁",
+          "route": [
+            "路西法",
+            "路西法神殿封锁"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=2} @PlayersInRadius{r=50}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/神殿封锁.yml",
+          "line": 11,
+          "owner": "路西法神殿封锁警告",
+          "route": [
+            "路西法",
+            "路西法神殿封锁警告"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "2",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=2} @PlayersInRadius{r=20}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/神殿封锁.yml",
+          "line": 21,
+          "owner": "路西法神殿大封锁警告",
+          "route": [
+            "大锁载体",
+            "路西法神殿大封锁警告"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/羽华.yml",
+          "line": 54,
+          "owner": "载体羽华冲击波Hit2",
+          "route": [
+            "羽华载体",
+            "载体羽华释放",
+            "载体羽华冲击波Hit2"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/羽华.yml",
+          "line": 55,
+          "owner": "载体羽华冲击波Hit2",
+          "route": [
+            "羽华载体",
+            "载体羽华释放",
+            "载体羽华冲击波Hit2"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/羽华.yml",
+          "line": 76,
+          "owner": "折返羽华冲击波Hit",
+          "route": [
+            "路西法",
+            "折返羽华",
+            "折返羽华冲击波Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/羽华.yml",
+          "line": 77,
+          "owner": "折返羽华冲击波Hit",
+          "route": [
+            "路西法",
+            "折返羽华",
+            "折返羽华冲击波Hit"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.15",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.15}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/羽华.yml",
+          "line": 107,
+          "owner": "神羽华冲击波Hit2",
+          "route": [
+            "路西法",
+            "神羽华",
+            "神羽华冲击波Hit2"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1250000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1250000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/羽华.yml",
+          "line": 108,
+          "owner": "神羽华冲击波Hit2",
+          "route": [
+            "路西法",
+            "神羽华",
+            "神羽华冲击波Hit2"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.15",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.15}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/羽华.yml",
+          "line": 116,
+          "owner": "神羽华折返冲击波Hit",
+          "route": [
+            "神羽华分裂载体",
+            "神羽华分裂",
+            "神羽华折返冲击波Hit"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.1",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.1}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/莽羽.yml",
+          "line": 29,
+          "owner": "莽羽Hit",
+          "route": [
+            "瘟疫骑士",
+            "莽羽",
+            "莽羽Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "450000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=450000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/莽羽.yml",
+          "line": 30,
+          "owner": "莽羽Hit",
+          "route": [
+            "瘟疫骑士",
+            "莽羽",
+            "莽羽Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "2000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=2000000;ignoreArmor=true} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/路西法天命.yml",
+          "line": 45,
+          "owner": "路西法循环天命",
+          "route": [
+            "路西法",
+            "路西法循环天命"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=30000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/路西法天命.yml",
+          "line": 54,
+          "owner": "路西法群攻",
+          "route": [
+            "路西法",
+            "路西法群攻"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "10000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=10000;ignoreArmor=true;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml",
+          "line": 20,
+          "owner": "路西法之灵技能击中",
+          "route": [
+            "路西法之灵",
+            "路西法之灵技能",
+            "路西法之灵技能击中"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.5",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.5} @PlayersInRadius{r=10}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml",
+          "line": 46,
+          "owner": "骑士击杀错误死亡",
+          "route": [
+            "瘟疫骑士分身2",
+            "骑士击杀错误死亡"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.5",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.5} @PlayersInRadius{r=36}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml",
+          "line": 51,
+          "owner": "天启之柱爆炸",
+          "route": [
+            "天启之柱",
+            "天启之柱爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.5",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.5} @PlayersInRadius{r=36}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml",
+          "line": 59,
+          "owner": "神天启之柱爆炸",
+          "route": [
+            "神天启之柱",
+            "神天启之柱爆炸"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.5",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.5} @PlayersInRadius{r=36}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/路西法神殿技能.yml",
+          "line": 68,
+          "owner": "分身超时爆炸",
+          "route": [
+            "瘟疫骑士分身1",
+            "分身超时爆炸"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "200000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=200000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/转场波.yml",
+          "line": 18,
+          "owner": "转场波Hit2",
+          "route": [
+            "转场波载体",
+            "转场波",
+            "转场波Hit2"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.05}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/重羽.yml",
+          "line": 41,
+          "owner": "重羽Hit",
+          "route": [
+            "路西法",
+            "重羽",
+            "重羽Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "750000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=750000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/重羽.yml",
+          "line": 42,
+          "owner": "重羽Hit",
+          "route": [
+            "路西法",
+            "重羽",
+            "重羽Hit"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.1",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.1}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/重羽.yml",
+          "line": 85,
+          "owner": "神重羽Hit",
+          "route": [
+            "路西法",
+            "神重羽",
+            "神重羽Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1250000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1250000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第八层技能/重羽.yml",
+          "line": 86,
+          "owner": "神重羽Hit",
+          "route": [
+            "路西法",
+            "神重羽",
+            "神重羽Hit"
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 9,
+      "mobDefinitions": 3,
+      "rootMobIds": [
+        "聚变魂体1",
+        "聚变融合物1",
+        "聚变衍生物1"
+      ],
+      "reachedSkills": 27,
+      "reachedMobs": 3,
+      "uniqueDamageActions": 9,
+      "nonSelfDamageActions": 9,
+      "damageCategories": {
+        "direct-health-custom": 9
+      },
+      "selfOrParentActions": 0,
+      "missingReferences": [],
+      "damageActions": [
+        {
+          "mechanic": "damage",
+          "amount": "1500000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1500000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 292,
+          "owner": "圆舞之轮射出Hit",
+          "route": [
+            "聚变魂体1",
+            "矩阵冲击-射",
+            "圆舞之轮射出",
+            "圆舞之轮射出Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "800000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=800000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 350,
+          "owner": "矩阵冲击-散射出Hit",
+          "route": [
+            "聚变魂体1",
+            "矩阵冲击-散",
+            "矩阵冲击-散射出",
+            "矩阵冲击-散射出Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "3000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=3000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 483,
+          "owner": "大圆舞之轮射出Hit",
+          "route": [
+            "聚变融合物1",
+            "大圆舞之轮",
+            "大圆舞之轮射出",
+            "大圆舞之轮射出Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1200000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1200000;ignoreArmor=true} @PNTL{r=30}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 511,
+          "owner": "大圆舞之轮环绕",
+          "route": [
+            "聚变融合物1",
+            "大圆舞之轮",
+            "大圆舞之轮环绕"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "2000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=2000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 533,
+          "owner": "矩阵冲击-散射射出Hit",
+          "route": [
+            "聚变融合物1",
+            "矩阵冲击-散射",
+            "矩阵冲击-散射射出",
+            "矩阵冲击-散射射出Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 553,
+          "owner": "矩阵冲击-大散射出Hit",
+          "route": [
+            "聚变融合物1",
+            "矩阵冲击-大散",
+            "矩阵冲击-大散射出",
+            "矩阵冲击-大散射出Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "700000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=700000;ignoreArmor=true} @PlayersInRadius{r=100}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 581,
+          "owner": "魂体之咒",
+          "route": [
+            "聚变魂体1",
+            "魂体之咒"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "4000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=4000000;ignoreArmor=true} @PlayersInRadius{r=50}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 603,
+          "owner": "融合物之咒",
+          "route": [
+            "聚变融合物1",
+            "融合物之咒"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "4000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=4000000;ignoreArmor=true} @PlayersInRadius{r=50}",
+          "file": "plugins/MythicMobs/Skills/第九层技能.yml",
+          "line": 628,
+          "owner": "融合物之咒1",
+          "route": [
+            "聚变融合物1",
+            "融合物之咒1"
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 10,
+      "mobDefinitions": 2,
+      "rootMobIds": [
+        "虚幻真理",
+        "真理武者1"
+      ],
+      "reachedSkills": 45,
+      "reachedMobs": 2,
+      "uniqueDamageActions": 16,
+      "nonSelfDamageActions": 16,
+      "damageCategories": {
+        "ordinary-event": 13,
+        "direct-health-custom": 3
+      },
+      "selfOrParentActions": 0,
+      "missingReferences": [],
+      "damageActions": [
+        {
+          "mechanic": "damage",
+          "amount": "250",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=250;ignoreArmor=false;preventknockback=true} @LivingEntitiesInRadius{r=15} ~onTimer:22",
+          "file": "plugins/MythicMobs/Mobs/10第十层怪物.yml",
+          "line": 93,
+          "owner": "真理武者1",
+          "route": [
+            "真理武者1"
+          ]
+        },
+        {
+          "mechanic": "damagepercent",
+          "amount": "0.05",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "Damagepercent{percent=0.05;pk=true}",
+          "file": "plugins/MythicMobs/Skills/第七层技能.yml",
+          "line": 163,
+          "owner": "兵长之灵_命中",
+          "route": [
+            "真理武者1",
+            "兵长脱战回血",
+            "兵长之灵",
+            "兵长之灵_命中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "2000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=2000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 23,
+          "owner": "11最终高台对玩家弹幕击中",
+          "route": [
+            "虚幻真理",
+            "11最终高台弹幕技能",
+            "11最终高台对玩家弹幕",
+            "11最终高台对玩家弹幕击中"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "18000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=18000000;ignoreArmor=true} @PlayersInRadius{r=48}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 56,
+          "owner": "真理天命",
+          "route": [
+            "真理武者1",
+            "真理天命"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "4000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=4000000;i=false}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 79,
+          "owner": "真理文字伤",
+          "route": [
+            "真理武者1",
+            "真理一文字",
+            "真理文字伤"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "4000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=4000000;i=false} @LivingEntitiesInRadius{r=3}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 84,
+          "owner": "真理文字终",
+          "route": [
+            "真理武者1",
+            "真理一文字",
+            "真理文字终"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "18000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=18000000;ignoreArmor=true} @PlayersInRadius{r=48}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 151,
+          "owner": "真理他要说台词",
+          "route": [
+            "真理武者1",
+            "真理他要说台词"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "7000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=7000000;i=false}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 241,
+          "owner": "真理心技伤",
+          "route": [
+            "真理武者1",
+            "真理他要说台词",
+            "真理心技伤"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "7000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=7000000;i=false} @LivingEntitiesInRadius{r=3}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 246,
+          "owner": "真理心技终",
+          "route": [
+            "真理武者1",
+            "真理他要说台词",
+            "真理心技终"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "8000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=8000000;ia=false;pk=true} @LivingEntitiesInRadius{r=5}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 255,
+          "owner": "真理光闪一痕",
+          "route": [
+            "真理武者1",
+            "真理光闪一痕"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "8000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=8000000;ignoreArmor=false;preventknockback=true} @LivingEntitiesInRadius{r=6}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 271,
+          "owner": "真理闪神雷暴",
+          "route": [
+            "真理武者1",
+            "真理闪神雷暴"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "10000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=10000000;i=false}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 296,
+          "owner": "真理闪神乱舞伤",
+          "route": [
+            "真理武者1",
+            "真理他要说台词2",
+            "真理闪神乱舞伤"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "10000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=10000000;i=false} @PlayersInRadius{r=4}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 301,
+          "owner": "真理闪神乱舞终",
+          "route": [
+            "真理武者1",
+            "真理他要说台词2",
+            "真理闪神乱舞终"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "1000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=1000;ignoreArmor=false;preventknockback=true} @PlayersInRadius{r=6}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 310,
+          "owner": "真理他要说台词2",
+          "route": [
+            "真理武者1",
+            "真理他要说台词2"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "14000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=14000000;i=false}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 356,
+          "owner": "真理闪神文字伤",
+          "route": [
+            "真理武者1",
+            "真理闪神十文字",
+            "真理闪神文字伤"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "16000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=16000000;i=false} @LivingEntitiesInRadius{r=4}",
+          "file": "plugins/MythicMobs/Skills/第十层技能.yml",
+          "line": 362,
+          "owner": "鬼武闪神文字终",
+          "route": [
+            "真理武者1",
+            "鬼武闪神文字终"
+          ]
+        }
+      ]
+    },
+    {
+      "floor": 11,
+      "mobDefinitions": 2,
+      "rootMobIds": [
+        "剑仙",
+        "剑意分身"
+      ],
+      "reachedSkills": 18,
+      "reachedMobs": 2,
+      "uniqueDamageActions": 15,
+      "nonSelfDamageActions": 15,
+      "damageCategories": {
+        "ordinary-event": 5,
+        "direct-health-custom": 10
+      },
+      "selfOrParentActions": 0,
+      "missingReferences": [
+        "真仙VIP掉落"
+      ],
+      "damageActions": [
+        {
+          "mechanic": "damage",
+          "amount": "250",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=250;ignoreArmor=false;preventknockback=true} @LivingEntitiesInRadius{r=15} ~onTimer:22",
+          "file": "plugins/MythicMobs/Mobs/11第十一层怪物.yml",
+          "line": 31,
+          "owner": "剑仙",
+          "route": [
+            "剑仙"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "37000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=37000000;ignoreArmor=true} @PlayersInRadius{r=24}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 21,
+          "owner": "剑仙天命之理",
+          "route": [
+            "剑仙",
+            "剑仙天命之理"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "20000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=20000000;i=true} @PIR{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 28,
+          "owner": "仙剑-剑舞",
+          "route": [
+            "剑仙",
+            "仙剑-剑舞"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "75",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=75;i=true} @PIR{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 30,
+          "owner": "仙剑-剑舞",
+          "route": [
+            "剑仙",
+            "仙剑-剑舞"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=30000000;i=true} @PIR{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 32,
+          "owner": "仙剑-剑舞",
+          "route": [
+            "剑仙",
+            "仙剑-剑舞"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "40000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=40000000;i=true} @PIR{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 34,
+          "owner": "仙剑-剑舞",
+          "route": [
+            "剑仙",
+            "仙剑-剑舞"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "50000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=50000000;i=true} @PIR{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 36,
+          "owner": "仙剑-剑舞",
+          "route": [
+            "剑仙",
+            "仙剑-剑舞"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "50000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=50000000;i=true} @PIR{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 38,
+          "owner": "仙剑-剑舞",
+          "route": [
+            "剑仙",
+            "仙剑-剑舞"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "20000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=20000000;i=false}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 119,
+          "owner": "攻击剑伤",
+          "route": [
+            "剑仙",
+            "剑技-泯世",
+            "攻击剑伤"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000000",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=30000000;i=false} @LivingEntitiesInRadius{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 124,
+          "owner": "攻击剑终",
+          "route": [
+            "剑仙",
+            "剑技-泯世",
+            "攻击剑终"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "18000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=18000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 172,
+          "owner": "绝代Hit",
+          "route": [
+            "剑仙",
+            "剑技-绝代",
+            "绝代Hit"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "30000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{a=30000000;i=true} @PIR{r=3}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 227,
+          "owner": "陨曦-伤",
+          "route": [
+            "剑仙",
+            "剑技-斩世",
+            "陨曦-伤"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "100",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "damage{a=100} @PIR{r=5}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 236,
+          "owner": "陨曦-伤",
+          "route": [
+            "剑仙",
+            "剑技-斩世",
+            "陨曦-伤"
+          ]
+        },
+        {
+          "mechanic": "damage",
+          "amount": "32000000",
+          "ignoreArmor": "true",
+          "category": "direct-health-custom",
+          "selfOrParentTarget": false,
+          "text": "damage{amount=32000000;ignoreArmor=true}",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 286,
+          "owner": "仙逆Hit",
+          "route": [
+            "剑仙",
+            "剑技-仙逆",
+            "仙逆Hit"
+          ]
+        },
+        {
+          "mechanic": "percentdamage",
+          "amount": "0.5",
+          "ignoreArmor": "false",
+          "category": "ordinary-event",
+          "selfOrParentTarget": false,
+          "text": "percentDamage{percent=0.5} @World",
+          "file": "plugins/MythicMobs/Skills/十一层技能.yml",
+          "line": 303,
+          "owner": "剑意分身超时爆炸",
+          "route": [
+            "剑意分身",
+            "剑意分身超时爆炸"
+          ]
+        }
+      ]
+    }
+  ]
+}

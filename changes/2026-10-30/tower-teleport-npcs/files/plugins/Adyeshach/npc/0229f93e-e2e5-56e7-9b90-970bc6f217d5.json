@@ -1,0 +1,58 @@
+{
+  "gameProfile": {
+    "name": "四层传送npc",
+    "ping": 60,
+    "texture": [
+      ""
+    ],
+    "textureName": "",
+    "spectator": false,
+    "listed": false
+  },
+  "isSleepingLegacy": false,
+  "isHideFromTabList": true,
+  "equipment": {},
+  "isDie": false,
+  "isNitwit": false,
+  "moveSpeed": 0.2,
+  "isNameTagVisible": true,
+  "isCollision": false,
+  "glowingColor": "WHITE",
+  "visibleDistance": -1.0,
+  "visibleAfterLoaded": true,
+  "modelEngineName": "",
+  "passengers": [],
+  "controller": [],
+  "clientPosition": {
+    "world": "world",
+    "x": -19.447,
+    "y": 86.0,
+    "z": -67.787,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "entityType": "PLAYER",
+  "persistentTag": {},
+  "metadata": {},
+  "metadataMask": {
+    "$f952a200": {
+      "skinHat": true,
+      "skinJacket": true,
+      "skinRightSleeve": true,
+      "skinLeftPants": true,
+      "skinRightPants": true,
+      "skinCape": true,
+      "skinLeftSleeve": true
+    }
+  },
+  "id": "floor_tp_4",
+  "uniqueId": "0229f93e-e2e5-56e7-9b90-970bc6f217d5",
+  "position": {
+    "world": "world",
+    "x": -19.447,
+    "y": 86.0,
+    "z": -67.787,
+    "yaw": 0.0,
+    "pitch": 0.0
+  }
+}

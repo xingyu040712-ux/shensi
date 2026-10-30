@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-30",
+  "files": [
+    {
+      "path": "plugins/GuoItemLoreCommand/ClickTrigger.yml",
+      "before": "D577BAD6AD6088348934C79716FB21EBC9B8305C7A2B0C27C03E8267EAA51F77",
+      "after": "227FFE86D43E447EA319DF9765DFA312BCF4E38A6B26296F8A698B28471CC23B"
+    },
+    {
+      "path": "plugins/LyItemLoreCommand/extra/神四制作指令物品.yml",
+      "before": "56E0094F707E35DB40A05C56F1C782F1410BD5BF9BA50B99D0655C498A7D8084",
+      "after": "FE670FEFEB67CBFDB61C56E701EE137DF225F68505455144AB11DBD3261662A0"
+    },
+    {
+      "path": "plugins/MythicMobs/Items/道具/点券and会员.yml",
+      "before": "D481D67202696C2D2C56B40A9F971177C0AEFB00B69EA02F7C9B358988FC29EE",
+      "after": "8D5DD2DCDB49E9C3BB57FE65521F5CFFE89908FEF0B82C8FEC3AE6FB014CF6B1"
+    },
+    {
+      "path": "plugins/VipSystem/config.yml",
+      "before": "4E2127C731202990747E9C70BF359CCE87B5699EC503BB3C8C6551C1511297A9",
+      "after": "4985F3A2C5FFFACB29CF4878FEE6A345D227134156EA204480E2FCF4CED26B0D"
+    }
+  ],
+  "publishedPatchLineEndings": "UTF-8/LF",
+  "patchReplayMatchedPreparedConfiguration": true,
+  "javaBinaryChanged": false,
+  "javaIntegrityLabel": "Low to Medium"
+}

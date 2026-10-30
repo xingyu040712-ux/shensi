@@ -1,0 +1,19 @@
+{
+    "pid":  13752,
+    "javaProcesses":  [
+                          {
+                              "ProcessId":  13752,
+                              "ExecutablePath":  "D:\\11月四区新端创作中\\神四\\zulu8.0.422\\bin\\java.exe"
+                          }
+                      ],
+    "changedOriginalFiles":  [
+
+                             ],
+    "originalFiles":  115,
+    "backup":  "D:\\11月四区新端创作中\\神四\\_codex_backup\\npc_restart_20261030",
+    "executable":  "D:\\11月四区新端创作中\\神四\\zulu8.0.422\\bin\\java.exe",
+    "commandLine":  "zulu8.0.422\\bin\\java.exe  -Xms8G -Xmx8G  -XX:+UseG1GC -server -noverify -XX:+UseFastAccessorMethods -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:MaxGCPauseMillis=10 -XX:+UseStringDeduplication -Duser.timezone=Asia/Shanghai -Dterminal.ansi=true -XX:-UsePerfData -Djava.io.tmpdir=\"D:\\11月四区新端创作中\\神四\\temp\" -Dfile.encoding=UTF-8 -jar paper-1.12.2.jar nogui",
+    "backupHashMismatches":  [
+
+                             ]
+}

@@ -1,0 +1,43 @@
+menu-settings:
+  name: "&9第五层副本 · 普通线路"
+  rows: 1
+
+route_1:
+  NAME: "&e第五层 · 普通一线"
+  LORE:
+    - "&7点击传送第五层普通一线"
+  ID: 276
+  ENCHANTMENT: 'SMITE,1'
+  COMMAND: "op:mv tp F5"
+  POSITION-X: 1
+  POSITION-Y: 1
+
+route_2:
+  NAME: "&e第五层 · 普通二线"
+  LORE:
+    - "&7点击传送第五层普通二线"
+  ID: 276
+  ENCHANTMENT: 'SMITE,1'
+  COMMAND: "op:mv tp F52x"
+  POSITION-X: 2
+  POSITION-Y: 1
+
+route_3:
+  NAME: "&e第五层 · 普通三线"
+  LORE:
+    - "&7点击传送第五层普通三线"
+  ID: 276
+  ENCHANTMENT: 'SMITE,1'
+  COMMAND: "op:mv tp F53x"
+  POSITION-X: 3
+  POSITION-Y: 1
+
+route_4:
+  NAME: "&e第五层 · 普通四线"
+  LORE:
+    - "&7点击传送第五层普通四线"
+  ID: 276
+  ENCHANTMENT: 'SMITE,1'
+  COMMAND: "op:mv tp F54x"
+  POSITION-X: 4
+  POSITION-Y: 1
